@@ -1,0 +1,243 @@
+label{
+    font-family: "Freight Sans Bold","lucida grande",tahoma,verdana,arial,sans-serif !important;
+}
+
+#home_head_bar {
+    height:80px;
+    width: 100%;
+    border: solid 1px;
+    color: #7f1518;
+    background: #7f1518;
+   /* background-image: url("../images/home_head_bar_bg.jpg");*/
+    background-repeat: repeat-x;
+    background-size: auto;
+    display: inline-block;
+    margin-bottom: -5px;
+}
+
+#herecut_logo {
+    background-image: url("../images/herecut_logo.gif");
+    background-repeat: no-repeat;
+    background-size: 245px 58px;
+    display: inline-block;
+    height: 58px;
+    width: 245px;
+    margin:37px 0 0 0;
+    border: solid 1px;
+}
+
+#logged_out_menu_bar{
+    border: solid 0px;
+    margin: 0px auto;
+    width: 50%;
+}
+
+#set_language {
+    border: solid 0px;
+    height: 25px;
+    min-width: 100px;
+    float:left;
+}
+
+#logged_out_laglog_box {
+    float:right;
+    border: #fff solid 0px;
+    min-width: 690px;
+    display: inline-block;
+    position:relative;
+    left:10%;
+}
+
+#login_container{
+    padding-top:10px;
+    border: solid 0px;
+    min-width: 520px;
+    height: 70px;
+    display: inline-block;
+
+}
+
+#username_field {
+    float: left;
+    padding: 8px;
+}
+#username_field input{
+    width: 210px;
+    height: 20px;
+    padding: 4px;
+}
+
+#password_field{
+    padding: 8px;
+}
+#password_field input{
+    width: 210px;
+    height: 20px;
+    padding: 4px;
+}
+
+#remember_me_box{
+    margin-left: 9px;
+    float: left;
+    border: solid 0px;
+    width: 200px;
+}
+#remember_me_box input{
+    padding: 0px;
+    margin: 0px;
+}
+#remember_me_box label{
+    font-size: 0.8em;
+    color: gainsboro;
+}
+#forgot_password_box{
+    float: right;
+    width: 282px;
+    border: solid 0px;
+    padding: 0px;
+}
+#forgot_password_box a{
+    font-size: 0.8em;
+    color: gainsboro;
+}
+#login_button{
+    position: relative;
+    left: 460px;
+    bottom: 55px;
+    border: solid 0px;
+    width: 50px;
+}
+#login_button input{
+    height: 25px;
+    padding: 4px;
+    padding-bottom: 6px;
+    border: solid 1px white;
+    color:white;
+    background-color: #0b0b0b;
+    background: rgba(0, 0, 0, 0.6);
+    min-width: 50px;
+}
+
+#hm_logout_reg{
+    border:solid 0px;
+    float:right;
+    width:540px;
+    display: block;
+}
+
+
+#hm_logout_text{
+    width:700px;
+    border:solid 0px;
+    float:left;
+    display: block;
+}
+
+/*login page*/
+#main_login_form{
+    border: solid 0px;
+    margin:0 auto;
+    padding: 20px 0 0 5px;
+    width:500px;
+}
+
+#main_login_form input{
+    border: solid 1px;
+}
+
+#herecut_splash {
+    background-image: url("../images/splash-screen.jpg");
+    background-repeat: no-repeat;
+    width: 700px;
+    height:1220px;
+    border: solid 2px;
+}
+
+#home_descrip {
+    border: solid 2px;
+    font-family: "Freight Sans Bold","lucida grande",tahoma,verdana,arial,sans-serif !important;
+    display: inline-block;
+    font-size: 0.8em;
+    width: 100%;
+    background-color: black;
+
+}
+#home_descrip_txt{
+    padding:10px;
+    color: white;
+}
+
+#home_descrip_txt > h1{
+    font-family: "Freight Sans Bold","lucida grande",tahoma,verdana,arial,sans-serif !important;
+    font-size: 1.2em;
+    color: white;
+}
+
+#google_app{
+    background-image: url("../images/google_app.png");
+    background-repeat: no-repeat;
+    width: 100%;
+    height:100%;
+    margin-left: 5px;
+    margin-top:1px;
+
+}
+/*registration page*/
+
+#reg_wrap{
+    height: 340px;
+    width: 310px;
+    padding-left: 21px;
+    border: solid 2px #6CA943;
+    border-radius: 12px;
+    margin:13px 0 0 0;
+
+}
+
+#reg_wrap input {
+    border: solid 1px #E74026;
+    width: 247px;
+    height: 23px;
+    padding: 6px 0px 6px 16px;
+    margin: 7px;
+    font-size: 1.0em;
+}
+
+#main_registration_form{
+    border: solid 1px;
+    margin:0 auto;
+    padding: 20px 0 0 5px;
+    width:500px;
+}
+
+#main_registration_form input{
+    border: solid 1px;
+
+}
+
+
+.main_registration_form_button{
+    border-radius: 5px;
+    position: relative;
+    top: 20px;
+    left: 20px;
+    padding: 7px;
+    border: solid 1px #E74026;
+    color:white;
+    background-color: #6CA943;
+    display: inline-block;
+    font-size: 1.2em;
+}
+
+/*resetting password page*/
+#resetting_request_username_form{
+    border: solid 1px;
+    margin:0 auto;
+    padding: 20px 0 0 5px;
+    width:500px;
+}
+
+#resetting_request_username_form input{
+    border: solid 1px;
+}
+

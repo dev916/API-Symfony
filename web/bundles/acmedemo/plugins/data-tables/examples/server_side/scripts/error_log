@@ -1,0 +1,944 @@
+[24-May-2014 13:16:22] PHP Parse error:  syntax error, unexpected T_FUNCTION in /home3/awnpw/public_html/gepe/assets/plugins/data-tables/examples/server_side/scripts/server_processing.php on line 38
+[24-May-2014 13:16:32] PHP Parse error:  syntax error, unexpected T_FUNCTION in /home3/awnpw/public_html/gepe/assets/plugins/data-tables/examples/server_side/scripts/server_processing.php on line 38
+[24-May-2014 13:17:35] PHP Parse error:  syntax error, unexpected T_FUNCTION in /home3/awnpw/public_html/gepe/assets/plugins/data-tables/examples/server_side/scripts/server_processing.php on line 38
+[24-May-2014 13:17:49] PHP Parse error:  syntax error, unexpected T_FUNCTION in /home3/awnpw/public_html/gepe/assets/plugins/data-tables/examples/server_side/scripts/server_processing.php on line 38
+[26-May-2014 13:29:11] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: Access denied for user 'awnpw'@'localhost' (using password: NO) in /home3/awnpw/public_html/gepe/assets/plugins/data-tables/examples/server_side/scripts/server_processing.php on line 40
+[26-May-2014 13:29:11] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: A link to the server could not be established in /home3/awnpw/public_html/gepe/assets/plugins/data-tables/examples/server_side/scripts/server_processing.php on line 40
+[26-May-2014 13:29:11] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home3/awnpw/public_html/gepe/assets/plugins/data-tables/examples/server_side/scripts/server_processing.php on line 44
+[26-May-2014 13:31:48] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: Access denied for user 'awnpw'@'localhost' (using password: NO) in /home3/awnpw/public_html/gepe/assets/plugins/data-tables/examples/server_side/scripts/server_processing.php on line 40
+[26-May-2014 13:31:48] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: A link to the server could not be established in /home3/awnpw/public_html/gepe/assets/plugins/data-tables/examples/server_side/scripts/server_processing.php on line 40
+[26-May-2014 13:31:48] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home3/awnpw/public_html/gepe/assets/plugins/data-tables/examples/server_side/scripts/server_processing.php on line 44
+[26-May-2014 13:31:59] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: Access denied for user 'awnpw'@'localhost' (using password: NO) in /home3/awnpw/public_html/gepe/assets/plugins/data-tables/examples/server_side/scripts/server_processing.php on line 40
+[26-May-2014 13:31:59] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: A link to the server could not be established in /home3/awnpw/public_html/gepe/assets/plugins/data-tables/examples/server_side/scripts/server_processing.php on line 40
+[26-May-2014 13:31:59] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home3/awnpw/public_html/gepe/assets/plugins/data-tables/examples/server_side/scripts/server_processing.php on line 44
+[26-May-2014 13:35:08] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: Access denied for user 'awnpw'@'localhost' (using password: NO) in /home3/awnpw/public_html/gepe/assets/plugins/data-tables/examples/server_side/scripts/server_processing.php on line 40
+[26-May-2014 13:35:08] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: A link to the server could not be established in /home3/awnpw/public_html/gepe/assets/plugins/data-tables/examples/server_side/scripts/server_processing.php on line 40
+[26-May-2014 13:35:08] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home3/awnpw/public_html/gepe/assets/plugins/data-tables/examples/server_side/scripts/server_processing.php on line 44
+[26-May-2014 13:35:13] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: Access denied for user 'awnpw'@'localhost' (using password: NO) in /home3/awnpw/public_html/gepe/assets/plugins/data-tables/examples/server_side/scripts/server_processing.php on line 40
+[26-May-2014 13:35:13] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: A link to the server could not be established in /home3/awnpw/public_html/gepe/assets/plugins/data-tables/examples/server_side/scripts/server_processing.php on line 40
+[26-May-2014 13:35:13] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home3/awnpw/public_html/gepe/assets/plugins/data-tables/examples/server_side/scripts/server_processing.php on line 44
+[26-May-2014 13:35:21] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: Access denied for user 'awnpw'@'localhost' (using password: NO) in /home3/awnpw/public_html/gepe/assets/plugins/data-tables/examples/server_side/scripts/server_processing.php on line 40
+[26-May-2014 13:35:21] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: A link to the server could not be established in /home3/awnpw/public_html/gepe/assets/plugins/data-tables/examples/server_side/scripts/server_processing.php on line 40
+[26-May-2014 13:35:21] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home3/awnpw/public_html/gepe/assets/plugins/data-tables/examples/server_side/scripts/server_processing.php on line 44
+[26-May-2014 13:36:58] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: Access denied for user 'awnpw'@'localhost' (using password: NO) in /home3/awnpw/public_html/gepe/assets/plugins/data-tables/examples/server_side/scripts/server_processing.php on line 40
+[26-May-2014 13:36:58] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: A link to the server could not be established in /home3/awnpw/public_html/gepe/assets/plugins/data-tables/examples/server_side/scripts/server_processing.php on line 40
+[26-May-2014 13:36:58] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home3/awnpw/public_html/gepe/assets/plugins/data-tables/examples/server_side/scripts/server_processing.php on line 44
+[26-May-2014 13:38:19] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: Access denied for user 'awnpw'@'localhost' (using password: NO) in /home3/awnpw/public_html/gepe/assets/plugins/data-tables/examples/server_side/scripts/server_processing.php on line 40
+[26-May-2014 13:38:19] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: A link to the server could not be established in /home3/awnpw/public_html/gepe/assets/plugins/data-tables/examples/server_side/scripts/server_processing.php on line 40
+[26-May-2014 13:38:19] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home3/awnpw/public_html/gepe/assets/plugins/data-tables/examples/server_side/scripts/server_processing.php on line 44
+[26-May-2014 13:38:24] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: Access denied for user 'awnpw'@'localhost' (using password: NO) in /home3/awnpw/public_html/gepe/assets/plugins/data-tables/examples/server_side/scripts/server_processing.php on line 40
+[26-May-2014 13:38:24] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: A link to the server could not be established in /home3/awnpw/public_html/gepe/assets/plugins/data-tables/examples/server_side/scripts/server_processing.php on line 40
+[26-May-2014 13:38:24] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home3/awnpw/public_html/gepe/assets/plugins/data-tables/examples/server_side/scripts/server_processing.php on line 44
+[26-May-2014 13:38:34] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: Access denied for user 'awnpw'@'localhost' (using password: NO) in /home3/awnpw/public_html/gepe/assets/plugins/data-tables/examples/server_side/scripts/server_processing.php on line 40
+[26-May-2014 13:38:34] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: A link to the server could not be established in /home3/awnpw/public_html/gepe/assets/plugins/data-tables/examples/server_side/scripts/server_processing.php on line 40
+[26-May-2014 13:38:34] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home3/awnpw/public_html/gepe/assets/plugins/data-tables/examples/server_side/scripts/server_processing.php on line 44
+[26-May-2014 13:39:25] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: Access denied for user 'awnpw'@'localhost' (using password: NO) in /home3/awnpw/public_html/gepe/assets/plugins/data-tables/examples/server_side/scripts/server_processing.php on line 40
+[26-May-2014 13:39:25] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: A link to the server could not be established in /home3/awnpw/public_html/gepe/assets/plugins/data-tables/examples/server_side/scripts/server_processing.php on line 40
+[26-May-2014 13:39:25] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home3/awnpw/public_html/gepe/assets/plugins/data-tables/examples/server_side/scripts/server_processing.php on line 44
+[26-May-2014 13:39:33] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: Access denied for user 'awnpw'@'localhost' (using password: NO) in /home3/awnpw/public_html/gepe/assets/plugins/data-tables/examples/server_side/scripts/server_processing.php on line 40
+[26-May-2014 13:39:33] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: A link to the server could not be established in /home3/awnpw/public_html/gepe/assets/plugins/data-tables/examples/server_side/scripts/server_processing.php on line 40
+[26-May-2014 13:39:33] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home3/awnpw/public_html/gepe/assets/plugins/data-tables/examples/server_side/scripts/server_processing.php on line 44
+[26-May-2014 13:41:25] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: Access denied for user 'awnpw'@'localhost' (using password: NO) in /home3/awnpw/public_html/gepe/assets/plugins/data-tables/examples/server_side/scripts/server_processing.php on line 41
+[26-May-2014 13:41:25] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: A link to the server could not be established in /home3/awnpw/public_html/gepe/assets/plugins/data-tables/examples/server_side/scripts/server_processing.php on line 41
+[26-May-2014 13:41:25] PHP Fatal error:  Call to a member function fetch_object() on a non-object in /home3/awnpw/public_html/gepe/assets/plugins/data-tables/examples/server_side/scripts/server_processing.php on line 45
+[26-May-2014 13:42:35] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, string given in /home3/awnpw/public_html/gepe/assets/plugins/data-tables/examples/server_side/scripts/server_processing.php on line 41
+[26-May-2014 13:42:35] PHP Fatal error:  Call to a member function fetch_object() on a non-object in /home3/awnpw/public_html/gepe/assets/plugins/data-tables/examples/server_side/scripts/server_processing.php on line 45
+[26-May-2014 13:46:33] PHP Fatal error:  Call to undefined method PDOStatement::fetch_object() in /home3/awnpw/public_html/gepe/assets/plugins/data-tables/examples/server_side/scripts/server_processing.php on line 45
+[26-May-2014 13:48:11] PHP Fatal error:  Call to undefined method PDOStatement::fetch_object() in /home3/awnpw/public_html/gepe/assets/plugins/data-tables/examples/server_side/scripts/server_processing.php on line 45
+[26-May-2014 14:57:49] PHP Parse error:  syntax error, unexpected T_WHILE, expecting ')' in /home3/awnpw/public_html/gepe/assets/plugins/data-tables/examples/server_side/scripts/server_processing.php on line 46
+[26-May-2014 22:25:07] PHP Fatal error:  Cannot use string offset as an array in /home3/awnpw/public_html/gepe/assets/plugins/data-tables/examples/server_side/scripts/ssp.class.php on line 384
+[26-May-2014 22:32:53] PHP Fatal error:  Cannot use string offset as an array in /home3/awnpw/public_html/gepe/assets/plugins/data-tables/examples/server_side/scripts/ssp.class.php on line 384
+[26-May-2014 22:33:14] PHP Fatal error:  Cannot use string offset as an array in /home3/awnpw/public_html/gepe/assets/plugins/data-tables/examples/server_side/scripts/ssp.class.php on line 384
+[27-May-2014 13:58:39] PHP Fatal error:  Cannot use string offset as an array in /home3/awnpw/public_html/gepe/assets/plugins/data-tables/examples/server_side/scripts/ssp.class.php on line 388
+[27-May-2014 14:01:34] PHP Fatal error:  Cannot use string offset as an array in /home3/awnpw/public_html/gepe/assets/plugins/data-tables/examples/server_side/scripts/ssp.class.php on line 388
+[27-May-2014 14:02:46] PHP Parse error:  syntax error, unexpected T_ECHO in /home3/awnpw/public_html/gepe/assets/plugins/data-tables/examples/server_side/scripts/server_processing.php on line 135
+[27-May-2014 18:43:55] PHP Fatal error:  Cannot use string offset as an array in /home3/awnpw/public_html/gepe/assets/plugins/data-tables/examples/server_side/scripts/ssp.class.php on line 388
+[28-May-2014 03:51:16] PHP Parse error:  syntax error, unexpected T_FUNCTION in /home3/awnpw/public_html/gepe/assets/plugins/data-tables/examples/server_side/scripts/server_processing.php on line 39
+[28-May-2014 03:51:21] PHP Parse error:  syntax error, unexpected T_FUNCTION in /home3/awnpw/public_html/gepe/assets/plugins/data-tables/examples/server_side/scripts/server_processing.php on line 39
+[31-May-2014 00:28:03] PHP Warning:  require(ssp.class.php) [<a href='function.require'>function.require</a>]: failed to open stream: No such file or directory in /home3/awnpw/public_html/gepe/assets/plugins/data-tables/examples/server_side/scripts/server_processing.php on line 9
+[31-May-2014 00:28:03] PHP Warning:  require(ssp.class.php) [<a href='function.require'>function.require</a>]: failed to open stream: No such file or directory in /home3/awnpw/public_html/gepe/assets/plugins/data-tables/examples/server_side/scripts/server_processing.php on line 9
+[31-May-2014 00:28:03] PHP Fatal error:  require() [<a href='function.require'>function.require</a>]: Failed opening required 'ssp.class.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home3/awnpw/public_html/gepe/assets/plugins/data-tables/examples/server_side/scripts/server_processing.php on line 9
+[31-May-2014 00:28:33] PHP Warning:  require(ssp.class.php) [<a href='function.require'>function.require</a>]: failed to open stream: No such file or directory in /home3/awnpw/public_html/gepe/assets/plugins/data-tables/examples/server_side/scripts/server_processing.php on line 9
+[31-May-2014 00:28:33] PHP Warning:  require(ssp.class.php) [<a href='function.require'>function.require</a>]: failed to open stream: No such file or directory in /home3/awnpw/public_html/gepe/assets/plugins/data-tables/examples/server_side/scripts/server_processing.php on line 9
+[31-May-2014 00:28:33] PHP Fatal error:  require() [<a href='function.require'>function.require</a>]: Failed opening required 'ssp.class.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home3/awnpw/public_html/gepe/assets/plugins/data-tables/examples/server_side/scripts/server_processing.php on line 9
+[31-May-2014 00:29:33] PHP Warning:  require(ssp.class.php) [<a href='function.require'>function.require</a>]: failed to open stream: No such file or directory in /home3/awnpw/public_html/gepe/assets/plugins/data-tables/examples/server_side/scripts/server_processing.php on line 9
+[31-May-2014 00:29:33] PHP Warning:  require(ssp.class.php) [<a href='function.require'>function.require</a>]: failed to open stream: No such file or directory in /home3/awnpw/public_html/gepe/assets/plugins/data-tables/examples/server_side/scripts/server_processing.php on line 9
+[31-May-2014 00:29:33] PHP Fatal error:  require() [<a href='function.require'>function.require</a>]: Failed opening required 'ssp.class.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home3/awnpw/public_html/gepe/assets/plugins/data-tables/examples/server_side/scripts/server_processing.php on line 9
+[31-May-2014 00:32:22] PHP Warning:  require(ssp.class.php) [<a href='function.require'>function.require</a>]: failed to open stream: No such file or directory in /home3/awnpw/public_html/gepe/assets/plugins/data-tables/examples/server_side/scripts/server_processing.php on line 9
+[31-May-2014 00:32:22] PHP Warning:  require(ssp.class.php) [<a href='function.require'>function.require</a>]: failed to open stream: No such file or directory in /home3/awnpw/public_html/gepe/assets/plugins/data-tables/examples/server_side/scripts/server_processing.php on line 9
+[31-May-2014 00:32:22] PHP Fatal error:  require() [<a href='function.require'>function.require</a>]: Failed opening required 'ssp.class.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home3/awnpw/public_html/gepe/assets/plugins/data-tables/examples/server_side/scripts/server_processing.php on line 9
+[31-May-2014 00:32:43] PHP Warning:  require(ssp.class.php) [<a href='function.require'>function.require</a>]: failed to open stream: No such file or directory in /home3/awnpw/public_html/gepe/assets/plugins/data-tables/examples/server_side/scripts/server_processing.php on line 9
+[31-May-2014 00:32:43] PHP Warning:  require(ssp.class.php) [<a href='function.require'>function.require</a>]: failed to open stream: No such file or directory in /home3/awnpw/public_html/gepe/assets/plugins/data-tables/examples/server_side/scripts/server_processing.php on line 9
+[31-May-2014 00:32:43] PHP Fatal error:  require() [<a href='function.require'>function.require</a>]: Failed opening required 'ssp.class.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home3/awnpw/public_html/gepe/assets/plugins/data-tables/examples/server_side/scripts/server_processing.php on line 9
+[31-May-2014 00:38:20] PHP Warning:  require(ssp.class.php) [<a href='function.require'>function.require</a>]: failed to open stream: No such file or directory in /home3/awnpw/public_html/gepe/assets/plugins/data-tables/examples/server_side/scripts/server_processing.php on line 9
+[31-May-2014 00:38:20] PHP Warning:  require(ssp.class.php) [<a href='function.require'>function.require</a>]: failed to open stream: No such file or directory in /home3/awnpw/public_html/gepe/assets/plugins/data-tables/examples/server_side/scripts/server_processing.php on line 9
+[31-May-2014 00:38:20] PHP Fatal error:  require() [<a href='function.require'>function.require</a>]: Failed opening required 'ssp.class.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home3/awnpw/public_html/gepe/assets/plugins/data-tables/examples/server_side/scripts/server_processing.php on line 9
+[31-May-2014 00:43:43] PHP Warning:  require(ssp.class.php) [<a href='function.require'>function.require</a>]: failed to open stream: No such file or directory in /home3/awnpw/public_html/gepe/assets/plugins/data-tables/examples/server_side/scripts/server_processing.php on line 9
+[31-May-2014 00:43:43] PHP Warning:  require(ssp.class.php) [<a href='function.require'>function.require</a>]: failed to open stream: No such file or directory in /home3/awnpw/public_html/gepe/assets/plugins/data-tables/examples/server_side/scripts/server_processing.php on line 9
+[31-May-2014 00:43:43] PHP Fatal error:  require() [<a href='function.require'>function.require</a>]: Failed opening required 'ssp.class.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home3/awnpw/public_html/gepe/assets/plugins/data-tables/examples/server_side/scripts/server_processing.php on line 9
+[31-May-2014 00:59:47] PHP Warning:  json_encode() expects exactly 1 parameter, 0 given in /home3/awnpw/public_html/gepe/assets/plugins/data-tables/examples/server_side/scripts/server_processing.php on line 51
+[31-May-2014 01:00:01] PHP Warning:  json_encode() expects exactly 1 parameter, 0 given in /home3/awnpw/public_html/gepe/assets/plugins/data-tables/examples/server_side/scripts/server_processing.php on line 51
+[31-May-2014 01:00:13] PHP Warning:  json_encode() expects exactly 1 parameter, 0 given in /home3/awnpw/public_html/gepe/assets/plugins/data-tables/examples/server_side/scripts/server_processing.php on line 51
+[31-May-2014 03:15:04] PHP Warning:  json_encode() expects exactly 1 parameter, 0 given in /home3/awnpw/public_html/gepe/assets/plugins/data-tables/examples/server_side/scripts/server_processing.php on line 69
+[31-May-2014 03:15:09] PHP Warning:  json_encode() expects exactly 1 parameter, 0 given in /home3/awnpw/public_html/gepe/assets/plugins/data-tables/examples/server_side/scripts/server_processing.php on line 69
+[16-Aug-2014 10:19:47] PHP Fatal error:  Cannot use string offset as an array in /home3/awnpw/public_html/worksafe/awn-admin1/assets/plugins/data-tables/examples/server_side/scripts/ssp.class.php on line 448
+[28-Aug-2014 14:15:08] PHP Fatal error:  Cannot use string offset as an array in /home3/awnpw/public_html/reward-point/awn-admin/assets/plugins/data-tables/examples/server_side/scripts/ssp.class.php on line 487
+[28-Aug-2014 14:15:14] PHP Fatal error:  Cannot use string offset as an array in /home3/awnpw/public_html/reward-point/awn-admin/assets/plugins/data-tables/examples/server_side/scripts/ssp.class.php on line 487
+[28-Aug-2014 14:15:14] PHP Fatal error:  Cannot use string offset as an array in /home3/awnpw/public_html/reward-point/awn-admin/assets/plugins/data-tables/examples/server_side/scripts/ssp.class.php on line 487
+[28-Aug-2014 14:15:16] PHP Fatal error:  Cannot use string offset as an array in /home3/awnpw/public_html/reward-point/awn-admin/assets/plugins/data-tables/examples/server_side/scripts/ssp.class.php on line 487
+[28-Aug-2014 14:15:16] PHP Fatal error:  Cannot use string offset as an array in /home3/awnpw/public_html/reward-point/awn-admin/assets/plugins/data-tables/examples/server_side/scripts/ssp.class.php on line 487
+[28-Aug-2014 14:15:17] PHP Fatal error:  Cannot use string offset as an array in /home3/awnpw/public_html/reward-point/awn-admin/assets/plugins/data-tables/examples/server_side/scripts/ssp.class.php on line 487
+[28-Aug-2014 14:15:17] PHP Fatal error:  Cannot use string offset as an array in /home3/awnpw/public_html/reward-point/awn-admin/assets/plugins/data-tables/examples/server_side/scripts/ssp.class.php on line 487
+[28-Aug-2014 15:50:11] PHP Fatal error:  Cannot use string offset as an array in /home3/awnpw/public_html/reward-point/awn-admin/assets/plugins/data-tables/examples/server_side/scripts/ssp.class.php on line 487
+[28-Aug-2014 15:50:13] PHP Fatal error:  Cannot use string offset as an array in /home3/awnpw/public_html/reward-point/awn-admin/assets/plugins/data-tables/examples/server_side/scripts/ssp.class.php on line 487
+[28-Aug-2014 16:11:01] PHP Fatal error:  Cannot use string offset as an array in /home3/awnpw/public_html/reward-point/awn-admin/assets/plugins/data-tables/examples/server_side/scripts/ssp.class.php on line 487
+[28-Aug-2014 16:11:25] PHP Fatal error:  Cannot use string offset as an array in /home3/awnpw/public_html/reward-point/awn-admin/assets/plugins/data-tables/examples/server_side/scripts/ssp.class.php on line 487
+[28-Aug-2014 16:13:53] PHP Fatal error:  Cannot use string offset as an array in /home3/awnpw/public_html/reward-point/awn-admin/assets/plugins/data-tables/examples/server_side/scripts/ssp.class.php on line 487
+[28-Aug-2014 16:15:53] PHP Fatal error:  Cannot use string offset as an array in /home3/awnpw/public_html/reward-point/awn-admin/assets/plugins/data-tables/examples/server_side/scripts/ssp.class.php on line 487
+[28-Aug-2014 16:19:48] PHP Fatal error:  Cannot use string offset as an array in /home3/awnpw/public_html/reward-point/awn-admin/assets/plugins/data-tables/examples/server_side/scripts/ssp.class.php on line 487
+[28-Aug-2014 16:19:54] PHP Fatal error:  Cannot use string offset as an array in /home3/awnpw/public_html/reward-point/awn-admin/assets/plugins/data-tables/examples/server_side/scripts/ssp.class.php on line 487
+[28-Aug-2014 16:21:34] PHP Fatal error:  Cannot use string offset as an array in /home3/awnpw/public_html/reward-point/awn-admin/assets/plugins/data-tables/examples/server_side/scripts/ssp.class.php on line 487
+[28-Aug-2014 16:22:43] PHP Fatal error:  Cannot use string offset as an array in /home3/awnpw/public_html/reward-point/awn-admin/assets/plugins/data-tables/examples/server_side/scripts/ssp.class.php on line 487
+[28-Aug-2014 16:23:20] PHP Fatal error:  Cannot use string offset as an array in /home3/awnpw/public_html/reward-point/awn-admin/assets/plugins/data-tables/examples/server_side/scripts/ssp.class.php on line 487
+[28-Aug-2014 16:27:16] PHP Fatal error:  Cannot use string offset as an array in /home3/awnpw/public_html/reward-point/awn-admin/assets/plugins/data-tables/examples/server_side/scripts/ssp.class.php on line 488
+[28-Aug-2014 16:29:42] PHP Fatal error:  Cannot use string offset as an array in /home3/awnpw/public_html/reward-point/awn-admin/assets/plugins/data-tables/examples/server_side/scripts/ssp.class.php on line 488
+[28-Aug-2014 16:33:36] PHP Fatal error:  Cannot use string offset as an array in /home3/awnpw/public_html/reward-point/awn-admin/assets/plugins/data-tables/examples/server_side/scripts/ssp.class.php on line 488
+[28-Aug-2014 16:34:39] PHP Fatal error:  Cannot use string offset as an array in /home3/awnpw/public_html/reward-point/awn-admin/assets/plugins/data-tables/examples/server_side/scripts/ssp.class.php on line 488
+[28-Aug-2014 16:35:50] PHP Fatal error:  Cannot use string offset as an array in /home3/awnpw/public_html/reward-point/awn-admin/assets/plugins/data-tables/examples/server_side/scripts/ssp.class.php on line 488
+[28-Aug-2014 16:36:37] PHP Fatal error:  Cannot use string offset as an array in /home3/awnpw/public_html/reward-point/awn-admin/assets/plugins/data-tables/examples/server_side/scripts/ssp.class.php on line 488
+[28-Aug-2014 16:48:56] PHP Fatal error:  Cannot use string offset as an array in /home3/awnpw/public_html/reward-point/awn-admin/assets/plugins/data-tables/examples/server_side/scripts/ssp.class.php on line 488
+[28-Aug-2014 16:49:13] PHP Fatal error:  Cannot use string offset as an array in /home3/awnpw/public_html/reward-point/awn-admin/assets/plugins/data-tables/examples/server_side/scripts/ssp.class.php on line 488
+[28-Aug-2014 17:08:39] PHP Fatal error:  Cannot use string offset as an array in /home3/awnpw/public_html/reward-point/awn-admin/assets/plugins/data-tables/examples/server_side/scripts/ssp.class.php on line 488
+[11-Oct-2014 15:06:18] PHP Parse error:  syntax error, unexpected ')' in /home3/awnpw/public_html/reward-point/awn-admin/assets/plugins/data-tables/examples/server_side/scripts/server_processing.php on line 66
+[11-Oct-2014 15:06:30] PHP Parse error:  syntax error, unexpected ')' in /home3/awnpw/public_html/reward-point/awn-admin/assets/plugins/data-tables/examples/server_side/scripts/server_processing.php on line 66
+[11-Oct-2014 15:07:12] PHP Parse error:  syntax error, unexpected ')' in /home3/awnpw/public_html/reward-point/awn-admin/assets/plugins/data-tables/examples/server_side/scripts/server_processing.php on line 66
+[11-Oct-2014 15:07:29] PHP Parse error:  syntax error, unexpected ')' in /home3/awnpw/public_html/reward-point/awn-admin/assets/plugins/data-tables/examples/server_side/scripts/server_processing.php on line 66
+[11-Oct-2014 15:07:37] PHP Parse error:  syntax error, unexpected ')' in /home3/awnpw/public_html/reward-point/awn-admin/assets/plugins/data-tables/examples/server_side/scripts/server_processing.php on line 66
+[11-Oct-2014 15:08:05] PHP Parse error:  syntax error, unexpected ')' in /home3/awnpw/public_html/reward-point/awn-admin/assets/plugins/data-tables/examples/server_side/scripts/server_processing.php on line 66
+[11-Oct-2014 15:08:33] PHP Parse error:  syntax error, unexpected ')' in /home3/awnpw/public_html/reward-point/awn-admin/assets/plugins/data-tables/examples/server_side/scripts/server_processing.php on line 82
+[11-Oct-2014 15:09:00] PHP Parse error:  syntax error, unexpected ')' in /home3/awnpw/public_html/reward-point/awn-admin/assets/plugins/data-tables/examples/server_side/scripts/server_processing.php on line 66
+[11-Oct-2014 15:09:10] PHP Parse error:  syntax error, unexpected ')' in /home3/awnpw/public_html/reward-point/awn-admin/assets/plugins/data-tables/examples/server_side/scripts/server_processing.php on line 66
+[11-Oct-2014 15:15:10] PHP Fatal error:  Call to undefined method SSP::simple_awn_addpoints_scheme() in /home3/awnpw/public_html/reward-point/awn-admin/assets/plugins/data-tables/examples/server_side/scripts/server_processing.php on line 68
+[11-Oct-2014 18:12:21] PHP Fatal error:  Cannot use string offset as an array in /home3/awnpw/public_html/reward-point/awn-admin/assets/plugins/data-tables/examples/server_side/scripts/ssp.class.php on line 493
+[11-Oct-2014 18:12:36] PHP Fatal error:  Cannot use string offset as an array in /home3/awnpw/public_html/reward-point/awn-admin/assets/plugins/data-tables/examples/server_side/scripts/ssp.class.php on line 493
+[11-Oct-2014 18:12:38] PHP Fatal error:  Cannot use string offset as an array in /home3/awnpw/public_html/reward-point/awn-admin/assets/plugins/data-tables/examples/server_side/scripts/ssp.class.php on line 493
+[13-Oct-2014 11:23:07] PHP Parse error:  syntax error, unexpected T_ELSE in /home3/awnpw/public_html/reward-point/awn-admin/assets/plugins/data-tables/examples/server_side/scripts/server_processing.php on line 123
+[13-Oct-2014 11:27:47] PHP Parse error:  syntax error, unexpected T_ELSE in /home3/awnpw/public_html/reward-point/awn-admin/assets/plugins/data-tables/examples/server_side/scripts/server_processing.php on line 123
+[13-Oct-2014 11:31:24] PHP Parse error:  syntax error, unexpected T_ELSE in /home3/awnpw/public_html/reward-point/awn-admin/assets/plugins/data-tables/examples/server_side/scripts/server_processing.php on line 123
+[13-Oct-2014 11:32:34] PHP Parse error:  syntax error, unexpected T_ELSE in /home3/awnpw/public_html/reward-point/awn-admin/assets/plugins/data-tables/examples/server_side/scripts/server_processing.php on line 123
+[13-Oct-2014 11:33:25] PHP Parse error:  syntax error, unexpected T_ELSE in /home3/awnpw/public_html/reward-point/awn-admin/assets/plugins/data-tables/examples/server_side/scripts/server_processing.php on line 123
+[13-Oct-2014 11:33:36] PHP Parse error:  syntax error, unexpected T_ELSE in /home3/awnpw/public_html/reward-point/awn-admin/assets/plugins/data-tables/examples/server_side/scripts/server_processing.php on line 123
+[13-Oct-2014 11:33:48] PHP Parse error:  syntax error, unexpected T_ELSE in /home3/awnpw/public_html/reward-point/awn-admin/assets/plugins/data-tables/examples/server_side/scripts/server_processing.php on line 123
+[13-Oct-2014 11:34:47] PHP Parse error:  syntax error, unexpected T_ELSE in /home3/awnpw/public_html/reward-point/awn-admin/assets/plugins/data-tables/examples/server_side/scripts/server_processing.php on line 123
+[13-Oct-2014 11:35:47] PHP Parse error:  syntax error, unexpected T_ELSE in /home3/awnpw/public_html/reward-point/awn-admin/assets/plugins/data-tables/examples/server_side/scripts/server_processing.php on line 123
+[13-Oct-2014 11:38:00] PHP Parse error:  syntax error, unexpected T_ELSE in /home3/awnpw/public_html/reward-point/awn-admin/assets/plugins/data-tables/examples/server_side/scripts/server_processing.php on line 123
+[13-Oct-2014 11:38:29] PHP Parse error:  syntax error, unexpected T_ELSE in /home3/awnpw/public_html/reward-point/awn-admin/assets/plugins/data-tables/examples/server_side/scripts/server_processing.php on line 123
+[13-Oct-2014 11:39:04] PHP Parse error:  syntax error, unexpected T_ELSE in /home3/awnpw/public_html/reward-point/awn-admin/assets/plugins/data-tables/examples/server_side/scripts/server_processing.php on line 123
+[13-Oct-2014 11:39:26] PHP Parse error:  syntax error, unexpected T_ELSE in /home3/awnpw/public_html/reward-point/awn-admin/assets/plugins/data-tables/examples/server_side/scripts/server_processing.php on line 123
+[13-Oct-2014 11:40:55] PHP Parse error:  syntax error, unexpected T_ELSE in /home3/awnpw/public_html/reward-point/awn-admin/assets/plugins/data-tables/examples/server_side/scripts/server_processing.php on line 123
+[13-Oct-2014 11:42:49] PHP Parse error:  syntax error, unexpected T_ELSE in /home3/awnpw/public_html/reward-point/awn-admin/assets/plugins/data-tables/examples/server_side/scripts/server_processing.php on line 123
+[13-Oct-2014 11:43:30] PHP Parse error:  syntax error, unexpected T_ELSE in /home3/awnpw/public_html/reward-point/awn-admin/assets/plugins/data-tables/examples/server_side/scripts/server_processing.php on line 123
+[13-Oct-2014 11:43:35] PHP Parse error:  syntax error, unexpected T_ELSE in /home3/awnpw/public_html/reward-point/awn-admin/assets/plugins/data-tables/examples/server_side/scripts/server_processing.php on line 123
+[13-Oct-2014 11:47:04] PHP Parse error:  syntax error, unexpected T_ELSE in /home3/awnpw/public_html/reward-point/awn-admin/assets/plugins/data-tables/examples/server_side/scripts/server_processing.php on line 123
+[13-Oct-2014 11:47:13] PHP Parse error:  syntax error, unexpected T_ELSE in /home3/awnpw/public_html/reward-point/awn-admin/assets/plugins/data-tables/examples/server_side/scripts/server_processing.php on line 123
+[13-Oct-2014 11:50:43] PHP Parse error:  syntax error, unexpected T_ELSE in /home3/awnpw/public_html/reward-point/awn-admin/assets/plugins/data-tables/examples/server_side/scripts/server_processing.php on line 123
+[13-Oct-2014 12:01:46] PHP Fatal error:  Cannot use string offset as an array in /home3/awnpw/public_html/reward-point/awn-admin/assets/plugins/data-tables/examples/server_side/scripts/ssp.class.php on line 493
+[13-Oct-2014 12:02:02] PHP Fatal error:  Cannot use string offset as an array in /home3/awnpw/public_html/reward-point/awn-admin/assets/plugins/data-tables/examples/server_side/scripts/ssp.class.php on line 493
+[13-Oct-2014 12:02:38] PHP Fatal error:  Cannot use string offset as an array in /home3/awnpw/public_html/reward-point/awn-admin/assets/plugins/data-tables/examples/server_side/scripts/ssp.class.php on line 493
+[14-Oct-2014 11:08:46] PHP Parse error:  syntax error, unexpected T_ELSE in /home3/awnpw/public_html/reward-point/awn-admin/assets/plugins/data-tables/examples/server_side/scripts/server_processing.php on line 56
+[15-Oct-2014 13:16:37] PHP Fatal error:  Cannot redeclare SSP::simple_clients_user() in /home3/awnpw/public_html/reward-point/awn-admin/assets/plugins/data-tables/examples/server_side/scripts/ssp.class.php on line 547
+[15-Oct-2014 13:18:07] PHP Fatal error:  Cannot redeclare SSP::simple_clients_user() in /home3/awnpw/public_html/reward-point/awn-admin/assets/plugins/data-tables/examples/server_side/scripts/ssp.class.php on line 547
+[15-Oct-2014 13:18:46] PHP Fatal error:  Cannot redeclare SSP::simple_clients_user() in /home3/awnpw/public_html/reward-point/awn-admin/assets/plugins/data-tables/examples/server_side/scripts/ssp.class.php on line 547
+[15-Oct-2014 13:19:46] PHP Fatal error:  Cannot redeclare SSP::simple_clients_user() in /home3/awnpw/public_html/reward-point/awn-admin/assets/plugins/data-tables/examples/server_side/scripts/ssp.class.php on line 547
+[15-Oct-2014 13:20:16] PHP Fatal error:  Cannot redeclare SSP::simple_clients_user() in /home3/awnpw/public_html/reward-point/awn-admin/assets/plugins/data-tables/examples/server_side/scripts/ssp.class.php on line 547
+[15-Oct-2014 13:20:38] PHP Fatal error:  Cannot redeclare SSP::simple_clients_user() in /home3/awnpw/public_html/reward-point/awn-admin/assets/plugins/data-tables/examples/server_side/scripts/ssp.class.php on line 547
+[15-Oct-2014 13:21:11] PHP Fatal error:  Cannot redeclare SSP::simple_clients_user() in /home3/awnpw/public_html/reward-point/awn-admin/assets/plugins/data-tables/examples/server_side/scripts/ssp.class.php on line 547
+[15-Oct-2014 13:23:53] PHP Fatal error:  Cannot redeclare SSP::simple_clients_user() in /home3/awnpw/public_html/reward-point/awn-admin/assets/plugins/data-tables/examples/server_side/scripts/ssp.class.php on line 547
+[15-Oct-2014 13:25:33] PHP Fatal error:  Cannot redeclare SSP::simple_clients_user() in /home3/awnpw/public_html/reward-point/awn-admin/assets/plugins/data-tables/examples/server_side/scripts/ssp.class.php on line 547
+[15-Oct-2014 13:25:40] PHP Fatal error:  Cannot redeclare SSP::simple_clients_user() in /home3/awnpw/public_html/reward-point/awn-admin/assets/plugins/data-tables/examples/server_side/scripts/ssp.class.php on line 547
+[15-Oct-2014 13:59:51] PHP Fatal error:  Cannot redeclare SSP::simple_clients_user() in /home3/awnpw/public_html/reward-point/awn-admin/assets/plugins/data-tables/examples/server_side/scripts/ssp.class.php on line 547
+[15-Oct-2014 16:07:42] PHP Fatal error:  Call to undefined method SSP::simple_transaction() in /home3/awnpw/public_html/reward-point/awn-admin/assets/plugins/data-tables/examples/server_side/scripts/server_processing.php on line 178
+[15-Oct-2014 16:16:33] PHP Fatal error:  Call to undefined method SSP::simple_transaction() in /home3/awnpw/public_html/reward-point/awn-admin/assets/plugins/data-tables/examples/server_side/scripts/server_processing.php on line 178
+[15-Oct-2014 16:16:34] PHP Fatal error:  Call to undefined method SSP::simple_transaction() in /home3/awnpw/public_html/reward-point/awn-admin/assets/plugins/data-tables/examples/server_side/scripts/server_processing.php on line 178
+[15-Oct-2014 16:21:46] PHP Fatal error:  Call to undefined method SSP::simple_transaction() in /home3/awnpw/public_html/reward-point/awn-admin/assets/plugins/data-tables/examples/server_side/scripts/server_processing.php on line 178
+[15-Oct-2014 16:24:57] PHP Fatal error:  Call to undefined method SSP::simple_transaction() in /home3/awnpw/public_html/reward-point/awn-admin/assets/plugins/data-tables/examples/server_side/scripts/server_processing.php on line 178
+[15-Oct-2014 16:26:56] PHP Fatal error:  Call to undefined method SSP::simple_transaction() in /home3/awnpw/public_html/reward-point/awn-admin/assets/plugins/data-tables/examples/server_side/scripts/server_processing.php on line 178
+[15-Oct-2014 16:28:13] PHP Fatal error:  Call to undefined method SSP::simple_transaction() in /home3/awnpw/public_html/reward-point/awn-admin/assets/plugins/data-tables/examples/server_side/scripts/server_processing.php on line 178
+[15-Oct-2014 16:29:30] PHP Fatal error:  Call to undefined method SSP::simple_transaction() in /home3/awnpw/public_html/reward-point/awn-admin/assets/plugins/data-tables/examples/server_side/scripts/server_processing.php on line 178
+[21-Nov-2014 11:00:52] PHP Parse error:  syntax error, unexpected T_VARIABLE, expecting T_FUNCTION in /home3/awnpw/public_html/reward-point/awn-admin/assets/plugins/data-tables/examples/server_side/scripts/ssp.class.php on line 741
+[25-Nov-2014 12:21:24] PHP Fatal error:  Cannot use string offset as an array in /home3/awnpw/public_html/reward-point/awn-admin/assets/plugins/data-tables/examples/server_side/scripts/ssp.class.php on line 808
+[04-Jun-2015 13:58:00 Asia/Kolkata] PHP Warning:  Module 'PDO' already loaded in Unknown on line 0
+[04-Jun-2015 13:58:00 Asia/Kolkata] PHP Warning:  Module 'pdo_sqlite' already loaded in Unknown on line 0
+[04-Jun-2015 13:58:00 Asia/Kolkata] PHP Warning:  Module 'pdo_mysql' already loaded in Unknown on line 0
+[04-Jun-2015 13:58:00 Asia/Kolkata] PHP Warning:  Module 'PDO' already loaded in Unknown on line 0
+[04-Jun-2015 13:58:00 Asia/Kolkata] PHP Warning:  Module 'pdo_sqlite' already loaded in Unknown on line 0
+[04-Jun-2015 13:58:00 Asia/Kolkata] PHP Warning:  Module 'pdo_mysql' already loaded in Unknown on line 0
+[10-Jun-2015 11:05:42 Asia/Kolkata] PHP Warning:  Module 'PDO' already loaded in Unknown on line 0
+[10-Jun-2015 11:05:42 Asia/Kolkata] PHP Warning:  Module 'pdo_sqlite' already loaded in Unknown on line 0
+[10-Jun-2015 11:05:42 Asia/Kolkata] PHP Warning:  Module 'pdo_mysql' already loaded in Unknown on line 0
+[10-Jun-2015 11:05:42 Asia/Kolkata] PHP Warning:  Module 'PDO' already loaded in Unknown on line 0
+[10-Jun-2015 11:05:42 Asia/Kolkata] PHP Warning:  Module 'pdo_sqlite' already loaded in Unknown on line 0
+[10-Jun-2015 11:05:42 Asia/Kolkata] PHP Warning:  Module 'pdo_mysql' already loaded in Unknown on line 0
+[12-Jun-2015 11:43:03 Asia/Kolkata] PHP Warning:  Module 'PDO' already loaded in Unknown on line 0
+[12-Jun-2015 11:43:03 Asia/Kolkata] PHP Warning:  Module 'pdo_sqlite' already loaded in Unknown on line 0
+[12-Jun-2015 11:43:03 Asia/Kolkata] PHP Warning:  Module 'pdo_mysql' already loaded in Unknown on line 0
+[12-Jun-2015 11:43:03 Asia/Kolkata] PHP Warning:  Module 'PDO' already loaded in Unknown on line 0
+[12-Jun-2015 11:43:03 Asia/Kolkata] PHP Warning:  Module 'pdo_sqlite' already loaded in Unknown on line 0
+[12-Jun-2015 11:43:03 Asia/Kolkata] PHP Warning:  Module 'pdo_mysql' already loaded in Unknown on line 0
+[12-Jun-2015 11:43:03 Asia/Kolkata] PHP Fatal error:  Cannot use string offset as an array in /home/awnpw/public_html/flickandplay/awn-admin/assets/plugins/data-tables/examples/server_side/scripts/ssp.class.php on line 392
+[12-Jun-2015 12:54:09 Asia/Kolkata] PHP Warning:  Module 'PDO' already loaded in Unknown on line 0
+[12-Jun-2015 12:54:09 Asia/Kolkata] PHP Warning:  Module 'pdo_sqlite' already loaded in Unknown on line 0
+[12-Jun-2015 12:54:09 Asia/Kolkata] PHP Warning:  Module 'pdo_mysql' already loaded in Unknown on line 0
+[12-Jun-2015 12:54:09 Asia/Kolkata] PHP Warning:  Module 'PDO' already loaded in Unknown on line 0
+[12-Jun-2015 12:54:09 Asia/Kolkata] PHP Warning:  Module 'pdo_sqlite' already loaded in Unknown on line 0
+[12-Jun-2015 12:54:09 Asia/Kolkata] PHP Warning:  Module 'pdo_mysql' already loaded in Unknown on line 0
+[12-Jun-2015 12:54:25 Asia/Kolkata] PHP Warning:  Module 'PDO' already loaded in Unknown on line 0
+[12-Jun-2015 12:54:25 Asia/Kolkata] PHP Warning:  Module 'pdo_sqlite' already loaded in Unknown on line 0
+[12-Jun-2015 12:54:25 Asia/Kolkata] PHP Warning:  Module 'pdo_mysql' already loaded in Unknown on line 0
+[12-Jun-2015 12:54:25 Asia/Kolkata] PHP Warning:  Module 'PDO' already loaded in Unknown on line 0
+[12-Jun-2015 12:54:25 Asia/Kolkata] PHP Warning:  Module 'pdo_sqlite' already loaded in Unknown on line 0
+[12-Jun-2015 12:54:25 Asia/Kolkata] PHP Warning:  Module 'pdo_mysql' already loaded in Unknown on line 0
+[12-Jun-2015 12:55:58 Asia/Kolkata] PHP Warning:  Module 'PDO' already loaded in Unknown on line 0
+[12-Jun-2015 12:55:58 Asia/Kolkata] PHP Warning:  Module 'pdo_sqlite' already loaded in Unknown on line 0
+[12-Jun-2015 12:55:58 Asia/Kolkata] PHP Warning:  Module 'pdo_mysql' already loaded in Unknown on line 0
+[12-Jun-2015 12:55:58 Asia/Kolkata] PHP Warning:  Module 'PDO' already loaded in Unknown on line 0
+[12-Jun-2015 12:55:58 Asia/Kolkata] PHP Warning:  Module 'pdo_sqlite' already loaded in Unknown on line 0
+[12-Jun-2015 12:55:58 Asia/Kolkata] PHP Warning:  Module 'pdo_mysql' already loaded in Unknown on line 0
+[12-Jun-2015 12:59:44 Asia/Kolkata] PHP Warning:  Module 'PDO' already loaded in Unknown on line 0
+[12-Jun-2015 12:59:44 Asia/Kolkata] PHP Warning:  Module 'pdo_sqlite' already loaded in Unknown on line 0
+[12-Jun-2015 12:59:44 Asia/Kolkata] PHP Warning:  Module 'pdo_mysql' already loaded in Unknown on line 0
+[12-Jun-2015 12:59:44 Asia/Kolkata] PHP Warning:  Module 'PDO' already loaded in Unknown on line 0
+[12-Jun-2015 12:59:44 Asia/Kolkata] PHP Warning:  Module 'pdo_sqlite' already loaded in Unknown on line 0
+[12-Jun-2015 12:59:44 Asia/Kolkata] PHP Warning:  Module 'pdo_mysql' already loaded in Unknown on line 0
+[12-Jun-2015 13:23:40 Asia/Kolkata] PHP Warning:  Module 'PDO' already loaded in Unknown on line 0
+[12-Jun-2015 13:23:40 Asia/Kolkata] PHP Warning:  Module 'pdo_sqlite' already loaded in Unknown on line 0
+[12-Jun-2015 13:23:40 Asia/Kolkata] PHP Warning:  Module 'pdo_mysql' already loaded in Unknown on line 0
+[12-Jun-2015 13:23:40 Asia/Kolkata] PHP Warning:  Module 'PDO' already loaded in Unknown on line 0
+[12-Jun-2015 13:23:40 Asia/Kolkata] PHP Warning:  Module 'pdo_sqlite' already loaded in Unknown on line 0
+[12-Jun-2015 13:23:40 Asia/Kolkata] PHP Warning:  Module 'pdo_mysql' already loaded in Unknown on line 0
+[12-Jun-2015 13:23:48 Asia/Kolkata] PHP Warning:  Module 'PDO' already loaded in Unknown on line 0
+[12-Jun-2015 13:23:48 Asia/Kolkata] PHP Warning:  Module 'pdo_sqlite' already loaded in Unknown on line 0
+[12-Jun-2015 13:23:48 Asia/Kolkata] PHP Warning:  Module 'pdo_mysql' already loaded in Unknown on line 0
+[12-Jun-2015 13:23:48 Asia/Kolkata] PHP Warning:  Module 'PDO' already loaded in Unknown on line 0
+[12-Jun-2015 13:23:48 Asia/Kolkata] PHP Warning:  Module 'pdo_sqlite' already loaded in Unknown on line 0
+[12-Jun-2015 13:23:48 Asia/Kolkata] PHP Warning:  Module 'pdo_mysql' already loaded in Unknown on line 0
+[12-Jun-2015 13:24:45 Asia/Kolkata] PHP Warning:  Module 'PDO' already loaded in Unknown on line 0
+[12-Jun-2015 13:24:45 Asia/Kolkata] PHP Warning:  Module 'pdo_sqlite' already loaded in Unknown on line 0
+[12-Jun-2015 13:24:45 Asia/Kolkata] PHP Warning:  Module 'pdo_mysql' already loaded in Unknown on line 0
+[12-Jun-2015 13:24:45 Asia/Kolkata] PHP Warning:  Module 'PDO' already loaded in Unknown on line 0
+[12-Jun-2015 13:24:45 Asia/Kolkata] PHP Warning:  Module 'pdo_sqlite' already loaded in Unknown on line 0
+[12-Jun-2015 13:24:45 Asia/Kolkata] PHP Warning:  Module 'pdo_mysql' already loaded in Unknown on line 0
+[12-Jun-2015 13:25:20 Asia/Kolkata] PHP Warning:  Module 'PDO' already loaded in Unknown on line 0
+[12-Jun-2015 13:25:20 Asia/Kolkata] PHP Warning:  Module 'pdo_sqlite' already loaded in Unknown on line 0
+[12-Jun-2015 13:25:20 Asia/Kolkata] PHP Warning:  Module 'pdo_mysql' already loaded in Unknown on line 0
+[12-Jun-2015 13:25:20 Asia/Kolkata] PHP Warning:  Module 'PDO' already loaded in Unknown on line 0
+[12-Jun-2015 13:25:20 Asia/Kolkata] PHP Warning:  Module 'pdo_sqlite' already loaded in Unknown on line 0
+[12-Jun-2015 13:25:20 Asia/Kolkata] PHP Warning:  Module 'pdo_mysql' already loaded in Unknown on line 0
+[12-Jun-2015 13:26:20 Asia/Kolkata] PHP Warning:  Module 'PDO' already loaded in Unknown on line 0
+[12-Jun-2015 13:26:20 Asia/Kolkata] PHP Warning:  Module 'pdo_sqlite' already loaded in Unknown on line 0
+[12-Jun-2015 13:26:20 Asia/Kolkata] PHP Warning:  Module 'pdo_mysql' already loaded in Unknown on line 0
+[12-Jun-2015 13:26:20 Asia/Kolkata] PHP Warning:  Module 'PDO' already loaded in Unknown on line 0
+[12-Jun-2015 13:26:20 Asia/Kolkata] PHP Warning:  Module 'pdo_sqlite' already loaded in Unknown on line 0
+[12-Jun-2015 13:26:20 Asia/Kolkata] PHP Warning:  Module 'pdo_mysql' already loaded in Unknown on line 0
+[12-Jun-2015 13:26:43 Asia/Kolkata] PHP Warning:  Module 'PDO' already loaded in Unknown on line 0
+[12-Jun-2015 13:26:43 Asia/Kolkata] PHP Warning:  Module 'pdo_sqlite' already loaded in Unknown on line 0
+[12-Jun-2015 13:26:43 Asia/Kolkata] PHP Warning:  Module 'pdo_mysql' already loaded in Unknown on line 0
+[12-Jun-2015 13:26:43 Asia/Kolkata] PHP Warning:  Module 'PDO' already loaded in Unknown on line 0
+[12-Jun-2015 13:26:43 Asia/Kolkata] PHP Warning:  Module 'pdo_sqlite' already loaded in Unknown on line 0
+[12-Jun-2015 13:26:43 Asia/Kolkata] PHP Warning:  Module 'pdo_mysql' already loaded in Unknown on line 0
+[12-Jun-2015 13:26:54 Asia/Kolkata] PHP Warning:  Module 'PDO' already loaded in Unknown on line 0
+[12-Jun-2015 13:26:54 Asia/Kolkata] PHP Warning:  Module 'pdo_sqlite' already loaded in Unknown on line 0
+[12-Jun-2015 13:26:54 Asia/Kolkata] PHP Warning:  Module 'pdo_mysql' already loaded in Unknown on line 0
+[12-Jun-2015 13:26:54 Asia/Kolkata] PHP Warning:  Module 'PDO' already loaded in Unknown on line 0
+[12-Jun-2015 13:26:54 Asia/Kolkata] PHP Warning:  Module 'pdo_sqlite' already loaded in Unknown on line 0
+[12-Jun-2015 13:26:54 Asia/Kolkata] PHP Warning:  Module 'pdo_mysql' already loaded in Unknown on line 0
+[12-Jun-2015 13:43:12 Asia/Kolkata] PHP Warning:  Module 'PDO' already loaded in Unknown on line 0
+[12-Jun-2015 13:43:12 Asia/Kolkata] PHP Warning:  Module 'pdo_sqlite' already loaded in Unknown on line 0
+[12-Jun-2015 13:43:12 Asia/Kolkata] PHP Warning:  Module 'pdo_mysql' already loaded in Unknown on line 0
+[12-Jun-2015 13:43:12 Asia/Kolkata] PHP Warning:  Module 'PDO' already loaded in Unknown on line 0
+[12-Jun-2015 13:43:12 Asia/Kolkata] PHP Warning:  Module 'pdo_sqlite' already loaded in Unknown on line 0
+[12-Jun-2015 13:43:12 Asia/Kolkata] PHP Warning:  Module 'pdo_mysql' already loaded in Unknown on line 0
+[12-Jun-2015 13:43:40 Asia/Kolkata] PHP Warning:  Module 'PDO' already loaded in Unknown on line 0
+[12-Jun-2015 13:43:40 Asia/Kolkata] PHP Warning:  Module 'pdo_sqlite' already loaded in Unknown on line 0
+[12-Jun-2015 13:43:40 Asia/Kolkata] PHP Warning:  Module 'pdo_mysql' already loaded in Unknown on line 0
+[12-Jun-2015 13:43:40 Asia/Kolkata] PHP Warning:  Module 'PDO' already loaded in Unknown on line 0
+[12-Jun-2015 13:43:40 Asia/Kolkata] PHP Warning:  Module 'pdo_sqlite' already loaded in Unknown on line 0
+[12-Jun-2015 13:43:40 Asia/Kolkata] PHP Warning:  Module 'pdo_mysql' already loaded in Unknown on line 0
+[12-Jun-2015 13:59:46 Asia/Kolkata] PHP Warning:  Module 'PDO' already loaded in Unknown on line 0
+[12-Jun-2015 13:59:46 Asia/Kolkata] PHP Warning:  Module 'pdo_sqlite' already loaded in Unknown on line 0
+[12-Jun-2015 13:59:46 Asia/Kolkata] PHP Warning:  Module 'pdo_mysql' already loaded in Unknown on line 0
+[12-Jun-2015 13:59:46 Asia/Kolkata] PHP Warning:  Module 'PDO' already loaded in Unknown on line 0
+[12-Jun-2015 13:59:46 Asia/Kolkata] PHP Warning:  Module 'pdo_sqlite' already loaded in Unknown on line 0
+[12-Jun-2015 13:59:46 Asia/Kolkata] PHP Warning:  Module 'pdo_mysql' already loaded in Unknown on line 0
+[12-Jun-2015 14:04:51 Asia/Kolkata] PHP Warning:  Module 'PDO' already loaded in Unknown on line 0
+[12-Jun-2015 14:04:51 Asia/Kolkata] PHP Warning:  Module 'pdo_sqlite' already loaded in Unknown on line 0
+[12-Jun-2015 14:04:51 Asia/Kolkata] PHP Warning:  Module 'pdo_mysql' already loaded in Unknown on line 0
+[12-Jun-2015 14:04:51 Asia/Kolkata] PHP Warning:  Module 'PDO' already loaded in Unknown on line 0
+[12-Jun-2015 14:04:51 Asia/Kolkata] PHP Warning:  Module 'pdo_sqlite' already loaded in Unknown on line 0
+[12-Jun-2015 14:04:51 Asia/Kolkata] PHP Warning:  Module 'pdo_mysql' already loaded in Unknown on line 0
+[12-Jun-2015 15:58:16 Asia/Kolkata] PHP Warning:  Module 'PDO' already loaded in Unknown on line 0
+[12-Jun-2015 15:58:16 Asia/Kolkata] PHP Warning:  Module 'pdo_sqlite' already loaded in Unknown on line 0
+[12-Jun-2015 15:58:16 Asia/Kolkata] PHP Warning:  Module 'pdo_mysql' already loaded in Unknown on line 0
+[12-Jun-2015 15:58:16 Asia/Kolkata] PHP Warning:  Module 'PDO' already loaded in Unknown on line 0
+[12-Jun-2015 15:58:16 Asia/Kolkata] PHP Warning:  Module 'pdo_sqlite' already loaded in Unknown on line 0
+[12-Jun-2015 15:58:16 Asia/Kolkata] PHP Warning:  Module 'pdo_mysql' already loaded in Unknown on line 0
+[12-Jun-2015 16:00:55 Asia/Kolkata] PHP Warning:  Module 'PDO' already loaded in Unknown on line 0
+[12-Jun-2015 16:00:55 Asia/Kolkata] PHP Warning:  Module 'pdo_sqlite' already loaded in Unknown on line 0
+[12-Jun-2015 16:00:55 Asia/Kolkata] PHP Warning:  Module 'pdo_mysql' already loaded in Unknown on line 0
+[12-Jun-2015 16:00:55 Asia/Kolkata] PHP Warning:  Module 'PDO' already loaded in Unknown on line 0
+[12-Jun-2015 16:00:55 Asia/Kolkata] PHP Warning:  Module 'pdo_sqlite' already loaded in Unknown on line 0
+[12-Jun-2015 16:00:55 Asia/Kolkata] PHP Warning:  Module 'pdo_mysql' already loaded in Unknown on line 0
+[12-Jun-2015 16:02:13 Asia/Kolkata] PHP Warning:  Module 'PDO' already loaded in Unknown on line 0
+[12-Jun-2015 16:02:13 Asia/Kolkata] PHP Warning:  Module 'pdo_sqlite' already loaded in Unknown on line 0
+[12-Jun-2015 16:02:13 Asia/Kolkata] PHP Warning:  Module 'pdo_mysql' already loaded in Unknown on line 0
+[12-Jun-2015 16:02:13 Asia/Kolkata] PHP Warning:  Module 'PDO' already loaded in Unknown on line 0
+[12-Jun-2015 16:02:13 Asia/Kolkata] PHP Warning:  Module 'pdo_sqlite' already loaded in Unknown on line 0
+[12-Jun-2015 16:02:13 Asia/Kolkata] PHP Warning:  Module 'pdo_mysql' already loaded in Unknown on line 0
+[12-Jun-2015 16:04:42 Asia/Kolkata] PHP Warning:  Module 'PDO' already loaded in Unknown on line 0
+[12-Jun-2015 16:04:42 Asia/Kolkata] PHP Warning:  Module 'pdo_sqlite' already loaded in Unknown on line 0
+[12-Jun-2015 16:04:42 Asia/Kolkata] PHP Warning:  Module 'pdo_mysql' already loaded in Unknown on line 0
+[12-Jun-2015 16:04:42 Asia/Kolkata] PHP Warning:  Module 'PDO' already loaded in Unknown on line 0
+[12-Jun-2015 16:04:42 Asia/Kolkata] PHP Warning:  Module 'pdo_sqlite' already loaded in Unknown on line 0
+[12-Jun-2015 16:04:42 Asia/Kolkata] PHP Warning:  Module 'pdo_mysql' already loaded in Unknown on line 0
+[12-Jun-2015 16:08:01 Asia/Kolkata] PHP Warning:  Module 'PDO' already loaded in Unknown on line 0
+[12-Jun-2015 16:08:01 Asia/Kolkata] PHP Warning:  Module 'pdo_sqlite' already loaded in Unknown on line 0
+[12-Jun-2015 16:08:01 Asia/Kolkata] PHP Warning:  Module 'pdo_mysql' already loaded in Unknown on line 0
+[12-Jun-2015 16:08:01 Asia/Kolkata] PHP Warning:  Module 'PDO' already loaded in Unknown on line 0
+[12-Jun-2015 16:08:01 Asia/Kolkata] PHP Warning:  Module 'pdo_sqlite' already loaded in Unknown on line 0
+[12-Jun-2015 16:08:01 Asia/Kolkata] PHP Warning:  Module 'pdo_mysql' already loaded in Unknown on line 0
+[12-Jun-2015 16:09:59 Asia/Kolkata] PHP Warning:  Module 'PDO' already loaded in Unknown on line 0
+[12-Jun-2015 16:09:59 Asia/Kolkata] PHP Warning:  Module 'pdo_sqlite' already loaded in Unknown on line 0
+[12-Jun-2015 16:09:59 Asia/Kolkata] PHP Warning:  Module 'pdo_mysql' already loaded in Unknown on line 0
+[12-Jun-2015 16:09:59 Asia/Kolkata] PHP Warning:  Module 'PDO' already loaded in Unknown on line 0
+[12-Jun-2015 16:09:59 Asia/Kolkata] PHP Warning:  Module 'pdo_sqlite' already loaded in Unknown on line 0
+[12-Jun-2015 16:09:59 Asia/Kolkata] PHP Warning:  Module 'pdo_mysql' already loaded in Unknown on line 0
+[12-Jun-2015 16:11:28 Asia/Kolkata] PHP Warning:  Module 'PDO' already loaded in Unknown on line 0
+[12-Jun-2015 16:11:28 Asia/Kolkata] PHP Warning:  Module 'pdo_sqlite' already loaded in Unknown on line 0
+[12-Jun-2015 16:11:28 Asia/Kolkata] PHP Warning:  Module 'pdo_mysql' already loaded in Unknown on line 0
+[12-Jun-2015 16:11:28 Asia/Kolkata] PHP Warning:  Module 'PDO' already loaded in Unknown on line 0
+[12-Jun-2015 16:11:28 Asia/Kolkata] PHP Warning:  Module 'pdo_sqlite' already loaded in Unknown on line 0
+[12-Jun-2015 16:11:28 Asia/Kolkata] PHP Warning:  Module 'pdo_mysql' already loaded in Unknown on line 0
+[12-Jun-2015 16:15:07 Asia/Kolkata] PHP Warning:  Module 'PDO' already loaded in Unknown on line 0
+[12-Jun-2015 16:15:07 Asia/Kolkata] PHP Warning:  Module 'pdo_sqlite' already loaded in Unknown on line 0
+[12-Jun-2015 16:15:07 Asia/Kolkata] PHP Warning:  Module 'pdo_mysql' already loaded in Unknown on line 0
+[12-Jun-2015 16:15:07 Asia/Kolkata] PHP Warning:  Module 'PDO' already loaded in Unknown on line 0
+[12-Jun-2015 16:15:07 Asia/Kolkata] PHP Warning:  Module 'pdo_sqlite' already loaded in Unknown on line 0
+[12-Jun-2015 16:15:07 Asia/Kolkata] PHP Warning:  Module 'pdo_mysql' already loaded in Unknown on line 0
+[12-Jun-2015 16:15:30 Asia/Kolkata] PHP Warning:  Module 'PDO' already loaded in Unknown on line 0
+[12-Jun-2015 16:15:30 Asia/Kolkata] PHP Warning:  Module 'pdo_sqlite' already loaded in Unknown on line 0
+[12-Jun-2015 16:15:30 Asia/Kolkata] PHP Warning:  Module 'pdo_mysql' already loaded in Unknown on line 0
+[12-Jun-2015 16:15:30 Asia/Kolkata] PHP Warning:  Module 'PDO' already loaded in Unknown on line 0
+[12-Jun-2015 16:15:30 Asia/Kolkata] PHP Warning:  Module 'pdo_sqlite' already loaded in Unknown on line 0
+[12-Jun-2015 16:15:30 Asia/Kolkata] PHP Warning:  Module 'pdo_mysql' already loaded in Unknown on line 0
+[12-Jun-2015 16:21:16 Asia/Kolkata] PHP Warning:  Module 'PDO' already loaded in Unknown on line 0
+[12-Jun-2015 16:21:16 Asia/Kolkata] PHP Warning:  Module 'pdo_sqlite' already loaded in Unknown on line 0
+[12-Jun-2015 16:21:16 Asia/Kolkata] PHP Warning:  Module 'pdo_mysql' already loaded in Unknown on line 0
+[12-Jun-2015 16:21:16 Asia/Kolkata] PHP Warning:  Module 'PDO' already loaded in Unknown on line 0
+[12-Jun-2015 16:21:16 Asia/Kolkata] PHP Warning:  Module 'pdo_sqlite' already loaded in Unknown on line 0
+[12-Jun-2015 16:21:16 Asia/Kolkata] PHP Warning:  Module 'pdo_mysql' already loaded in Unknown on line 0
+[12-Jun-2015 16:21:24 Asia/Kolkata] PHP Warning:  Module 'PDO' already loaded in Unknown on line 0
+[12-Jun-2015 16:21:24 Asia/Kolkata] PHP Warning:  Module 'pdo_sqlite' already loaded in Unknown on line 0
+[12-Jun-2015 16:21:24 Asia/Kolkata] PHP Warning:  Module 'pdo_mysql' already loaded in Unknown on line 0
+[12-Jun-2015 16:21:24 Asia/Kolkata] PHP Warning:  Module 'PDO' already loaded in Unknown on line 0
+[12-Jun-2015 16:21:24 Asia/Kolkata] PHP Warning:  Module 'pdo_sqlite' already loaded in Unknown on line 0
+[12-Jun-2015 16:21:24 Asia/Kolkata] PHP Warning:  Module 'pdo_mysql' already loaded in Unknown on line 0
+[12-Jun-2015 16:22:08 Asia/Kolkata] PHP Warning:  Module 'PDO' already loaded in Unknown on line 0
+[12-Jun-2015 16:22:08 Asia/Kolkata] PHP Warning:  Module 'pdo_sqlite' already loaded in Unknown on line 0
+[12-Jun-2015 16:22:08 Asia/Kolkata] PHP Warning:  Module 'pdo_mysql' already loaded in Unknown on line 0
+[12-Jun-2015 16:22:08 Asia/Kolkata] PHP Warning:  Module 'PDO' already loaded in Unknown on line 0
+[12-Jun-2015 16:22:08 Asia/Kolkata] PHP Warning:  Module 'pdo_sqlite' already loaded in Unknown on line 0
+[12-Jun-2015 16:22:08 Asia/Kolkata] PHP Warning:  Module 'pdo_mysql' already loaded in Unknown on line 0
+[12-Jun-2015 16:23:41 Asia/Kolkata] PHP Warning:  Module 'PDO' already loaded in Unknown on line 0
+[12-Jun-2015 16:23:41 Asia/Kolkata] PHP Warning:  Module 'pdo_sqlite' already loaded in Unknown on line 0
+[12-Jun-2015 16:23:41 Asia/Kolkata] PHP Warning:  Module 'pdo_mysql' already loaded in Unknown on line 0
+[12-Jun-2015 16:23:41 Asia/Kolkata] PHP Warning:  Module 'PDO' already loaded in Unknown on line 0
+[12-Jun-2015 16:23:41 Asia/Kolkata] PHP Warning:  Module 'pdo_sqlite' already loaded in Unknown on line 0
+[12-Jun-2015 16:23:41 Asia/Kolkata] PHP Warning:  Module 'pdo_mysql' already loaded in Unknown on line 0
+[12-Jun-2015 16:24:09 Asia/Kolkata] PHP Warning:  Module 'PDO' already loaded in Unknown on line 0
+[12-Jun-2015 16:24:09 Asia/Kolkata] PHP Warning:  Module 'pdo_sqlite' already loaded in Unknown on line 0
+[12-Jun-2015 16:24:09 Asia/Kolkata] PHP Warning:  Module 'pdo_mysql' already loaded in Unknown on line 0
+[12-Jun-2015 16:24:09 Asia/Kolkata] PHP Warning:  Module 'PDO' already loaded in Unknown on line 0
+[12-Jun-2015 16:24:09 Asia/Kolkata] PHP Warning:  Module 'pdo_sqlite' already loaded in Unknown on line 0
+[12-Jun-2015 16:24:09 Asia/Kolkata] PHP Warning:  Module 'pdo_mysql' already loaded in Unknown on line 0
+[12-Jun-2015 16:26:10 Asia/Kolkata] PHP Warning:  Module 'PDO' already loaded in Unknown on line 0
+[12-Jun-2015 16:26:10 Asia/Kolkata] PHP Warning:  Module 'pdo_sqlite' already loaded in Unknown on line 0
+[12-Jun-2015 16:26:10 Asia/Kolkata] PHP Warning:  Module 'pdo_mysql' already loaded in Unknown on line 0
+[12-Jun-2015 16:26:10 Asia/Kolkata] PHP Warning:  Module 'PDO' already loaded in Unknown on line 0
+[12-Jun-2015 16:26:10 Asia/Kolkata] PHP Warning:  Module 'pdo_sqlite' already loaded in Unknown on line 0
+[12-Jun-2015 16:26:10 Asia/Kolkata] PHP Warning:  Module 'pdo_mysql' already loaded in Unknown on line 0
+[12-Jun-2015 16:26:28 Asia/Kolkata] PHP Warning:  Module 'PDO' already loaded in Unknown on line 0
+[12-Jun-2015 16:26:28 Asia/Kolkata] PHP Warning:  Module 'pdo_sqlite' already loaded in Unknown on line 0
+[12-Jun-2015 16:26:28 Asia/Kolkata] PHP Warning:  Module 'pdo_mysql' already loaded in Unknown on line 0
+[12-Jun-2015 16:26:28 Asia/Kolkata] PHP Warning:  Module 'PDO' already loaded in Unknown on line 0
+[12-Jun-2015 16:26:28 Asia/Kolkata] PHP Warning:  Module 'pdo_sqlite' already loaded in Unknown on line 0
+[12-Jun-2015 16:26:28 Asia/Kolkata] PHP Warning:  Module 'pdo_mysql' already loaded in Unknown on line 0
+[12-Jun-2015 16:32:06 Asia/Kolkata] PHP Warning:  Module 'PDO' already loaded in Unknown on line 0
+[12-Jun-2015 16:32:06 Asia/Kolkata] PHP Warning:  Module 'pdo_sqlite' already loaded in Unknown on line 0
+[12-Jun-2015 16:32:06 Asia/Kolkata] PHP Warning:  Module 'pdo_mysql' already loaded in Unknown on line 0
+[12-Jun-2015 16:32:06 Asia/Kolkata] PHP Warning:  Module 'PDO' already loaded in Unknown on line 0
+[12-Jun-2015 16:32:06 Asia/Kolkata] PHP Warning:  Module 'pdo_sqlite' already loaded in Unknown on line 0
+[12-Jun-2015 16:32:06 Asia/Kolkata] PHP Warning:  Module 'pdo_mysql' already loaded in Unknown on line 0
+[12-Jun-2015 16:32:13 Asia/Kolkata] PHP Warning:  Module 'PDO' already loaded in Unknown on line 0
+[12-Jun-2015 16:32:13 Asia/Kolkata] PHP Warning:  Module 'pdo_sqlite' already loaded in Unknown on line 0
+[12-Jun-2015 16:32:13 Asia/Kolkata] PHP Warning:  Module 'pdo_mysql' already loaded in Unknown on line 0
+[12-Jun-2015 16:32:13 Asia/Kolkata] PHP Warning:  Module 'PDO' already loaded in Unknown on line 0
+[12-Jun-2015 16:32:13 Asia/Kolkata] PHP Warning:  Module 'pdo_sqlite' already loaded in Unknown on line 0
+[12-Jun-2015 16:32:13 Asia/Kolkata] PHP Warning:  Module 'pdo_mysql' already loaded in Unknown on line 0
+[12-Jun-2015 16:35:27 Asia/Kolkata] PHP Warning:  Module 'PDO' already loaded in Unknown on line 0
+[12-Jun-2015 16:35:27 Asia/Kolkata] PHP Warning:  Module 'pdo_sqlite' already loaded in Unknown on line 0
+[12-Jun-2015 16:35:27 Asia/Kolkata] PHP Warning:  Module 'pdo_mysql' already loaded in Unknown on line 0
+[12-Jun-2015 16:35:27 Asia/Kolkata] PHP Warning:  Module 'PDO' already loaded in Unknown on line 0
+[12-Jun-2015 16:35:27 Asia/Kolkata] PHP Warning:  Module 'pdo_sqlite' already loaded in Unknown on line 0
+[12-Jun-2015 16:35:27 Asia/Kolkata] PHP Warning:  Module 'pdo_mysql' already loaded in Unknown on line 0
+[12-Jun-2015 16:36:23 Asia/Kolkata] PHP Warning:  Module 'PDO' already loaded in Unknown on line 0
+[12-Jun-2015 16:36:23 Asia/Kolkata] PHP Warning:  Module 'pdo_sqlite' already loaded in Unknown on line 0
+[12-Jun-2015 16:36:23 Asia/Kolkata] PHP Warning:  Module 'pdo_mysql' already loaded in Unknown on line 0
+[12-Jun-2015 16:36:23 Asia/Kolkata] PHP Warning:  Module 'PDO' already loaded in Unknown on line 0
+[12-Jun-2015 16:36:23 Asia/Kolkata] PHP Warning:  Module 'pdo_sqlite' already loaded in Unknown on line 0
+[12-Jun-2015 16:36:23 Asia/Kolkata] PHP Warning:  Module 'pdo_mysql' already loaded in Unknown on line 0
+[12-Jun-2015 16:37:29 Asia/Kolkata] PHP Warning:  Module 'PDO' already loaded in Unknown on line 0
+[12-Jun-2015 16:37:29 Asia/Kolkata] PHP Warning:  Module 'pdo_sqlite' already loaded in Unknown on line 0
+[12-Jun-2015 16:37:29 Asia/Kolkata] PHP Warning:  Module 'pdo_mysql' already loaded in Unknown on line 0
+[12-Jun-2015 16:37:29 Asia/Kolkata] PHP Warning:  Module 'PDO' already loaded in Unknown on line 0
+[12-Jun-2015 16:37:29 Asia/Kolkata] PHP Warning:  Module 'pdo_sqlite' already loaded in Unknown on line 0
+[12-Jun-2015 16:37:29 Asia/Kolkata] PHP Warning:  Module 'pdo_mysql' already loaded in Unknown on line 0
+[12-Jun-2015 16:38:12 Asia/Kolkata] PHP Warning:  Module 'PDO' already loaded in Unknown on line 0
+[12-Jun-2015 16:38:12 Asia/Kolkata] PHP Warning:  Module 'pdo_sqlite' already loaded in Unknown on line 0
+[12-Jun-2015 16:38:12 Asia/Kolkata] PHP Warning:  Module 'pdo_mysql' already loaded in Unknown on line 0
+[12-Jun-2015 16:38:12 Asia/Kolkata] PHP Warning:  Module 'PDO' already loaded in Unknown on line 0
+[12-Jun-2015 16:38:12 Asia/Kolkata] PHP Warning:  Module 'pdo_sqlite' already loaded in Unknown on line 0
+[12-Jun-2015 16:38:12 Asia/Kolkata] PHP Warning:  Module 'pdo_mysql' already loaded in Unknown on line 0
+[12-Jun-2015 16:39:59 Asia/Kolkata] PHP Warning:  Module 'PDO' already loaded in Unknown on line 0
+[12-Jun-2015 16:39:59 Asia/Kolkata] PHP Warning:  Module 'pdo_sqlite' already loaded in Unknown on line 0
+[12-Jun-2015 16:39:59 Asia/Kolkata] PHP Warning:  Module 'pdo_mysql' already loaded in Unknown on line 0
+[12-Jun-2015 16:39:59 Asia/Kolkata] PHP Warning:  Module 'PDO' already loaded in Unknown on line 0
+[12-Jun-2015 16:39:59 Asia/Kolkata] PHP Warning:  Module 'pdo_sqlite' already loaded in Unknown on line 0
+[12-Jun-2015 16:39:59 Asia/Kolkata] PHP Warning:  Module 'pdo_mysql' already loaded in Unknown on line 0
+[12-Jun-2015 16:49:39 Asia/Kolkata] PHP Warning:  Module 'PDO' already loaded in Unknown on line 0
+[12-Jun-2015 16:49:39 Asia/Kolkata] PHP Warning:  Module 'pdo_sqlite' already loaded in Unknown on line 0
+[12-Jun-2015 16:49:39 Asia/Kolkata] PHP Warning:  Module 'pdo_mysql' already loaded in Unknown on line 0
+[12-Jun-2015 16:49:39 Asia/Kolkata] PHP Warning:  Module 'PDO' already loaded in Unknown on line 0
+[12-Jun-2015 16:49:39 Asia/Kolkata] PHP Warning:  Module 'pdo_sqlite' already loaded in Unknown on line 0
+[12-Jun-2015 16:49:39 Asia/Kolkata] PHP Warning:  Module 'pdo_mysql' already loaded in Unknown on line 0
+[12-Jun-2015 17:17:54 Asia/Kolkata] PHP Warning:  Module 'PDO' already loaded in Unknown on line 0
+[12-Jun-2015 17:17:54 Asia/Kolkata] PHP Warning:  Module 'pdo_sqlite' already loaded in Unknown on line 0
+[12-Jun-2015 17:17:54 Asia/Kolkata] PHP Warning:  Module 'pdo_mysql' already loaded in Unknown on line 0
+[12-Jun-2015 17:17:54 Asia/Kolkata] PHP Warning:  Module 'PDO' already loaded in Unknown on line 0
+[12-Jun-2015 17:17:54 Asia/Kolkata] PHP Warning:  Module 'pdo_sqlite' already loaded in Unknown on line 0
+[12-Jun-2015 17:17:54 Asia/Kolkata] PHP Warning:  Module 'pdo_mysql' already loaded in Unknown on line 0
+[12-Jun-2015 17:20:12 Asia/Kolkata] PHP Warning:  Module 'PDO' already loaded in Unknown on line 0
+[12-Jun-2015 17:20:12 Asia/Kolkata] PHP Warning:  Module 'pdo_sqlite' already loaded in Unknown on line 0
+[12-Jun-2015 17:20:12 Asia/Kolkata] PHP Warning:  Module 'pdo_mysql' already loaded in Unknown on line 0
+[12-Jun-2015 17:20:12 Asia/Kolkata] PHP Warning:  Module 'PDO' already loaded in Unknown on line 0
+[12-Jun-2015 17:20:12 Asia/Kolkata] PHP Warning:  Module 'pdo_sqlite' already loaded in Unknown on line 0
+[12-Jun-2015 17:20:12 Asia/Kolkata] PHP Warning:  Module 'pdo_mysql' already loaded in Unknown on line 0
+[12-Jun-2015 17:20:34 Asia/Kolkata] PHP Warning:  Module 'PDO' already loaded in Unknown on line 0
+[12-Jun-2015 17:20:34 Asia/Kolkata] PHP Warning:  Module 'PDO' already loaded in Unknown on line 0
+[12-Jun-2015 17:20:34 Asia/Kolkata] PHP Warning:  Module 'pdo_sqlite' already loaded in Unknown on line 0
+[12-Jun-2015 17:20:34 Asia/Kolkata] PHP Warning:  Module 'pdo_sqlite' already loaded in Unknown on line 0
+[12-Jun-2015 17:20:34 Asia/Kolkata] PHP Warning:  Module 'pdo_mysql' already loaded in Unknown on line 0
+[12-Jun-2015 17:20:34 Asia/Kolkata] PHP Warning:  Module 'PDO' already loaded in Unknown on line 0
+[12-Jun-2015 17:20:34 Asia/Kolkata] PHP Warning:  Module 'pdo_sqlite' already loaded in Unknown on line 0
+[12-Jun-2015 17:20:34 Asia/Kolkata] PHP Warning:  Module 'pdo_mysql' already loaded in Unknown on line 0
+[12-Jun-2015 17:20:34 Asia/Kolkata] PHP Warning:  Module 'pdo_mysql' already loaded in Unknown on line 0
+[12-Jun-2015 17:20:34 Asia/Kolkata] PHP Warning:  Module 'PDO' already loaded in Unknown on line 0
+[12-Jun-2015 17:20:34 Asia/Kolkata] PHP Warning:  Module 'pdo_sqlite' already loaded in Unknown on line 0
+[12-Jun-2015 17:20:34 Asia/Kolkata] PHP Warning:  Module 'pdo_mysql' already loaded in Unknown on line 0
+[12-Jun-2015 17:20:35 Asia/Kolkata] PHP Warning:  Module 'PDO' already loaded in Unknown on line 0
+[12-Jun-2015 17:20:35 Asia/Kolkata] PHP Warning:  Module 'pdo_sqlite' already loaded in Unknown on line 0
+[12-Jun-2015 17:20:35 Asia/Kolkata] PHP Warning:  Module 'pdo_mysql' already loaded in Unknown on line 0
+[12-Jun-2015 17:20:35 Asia/Kolkata] PHP Warning:  Module 'PDO' already loaded in Unknown on line 0
+[12-Jun-2015 17:20:35 Asia/Kolkata] PHP Warning:  Module 'pdo_sqlite' already loaded in Unknown on line 0
+[12-Jun-2015 17:20:35 Asia/Kolkata] PHP Warning:  Module 'pdo_mysql' already loaded in Unknown on line 0
+[12-Jun-2015 17:20:39 Asia/Kolkata] PHP Warning:  Module 'PDO' already loaded in Unknown on line 0
+[12-Jun-2015 17:20:39 Asia/Kolkata] PHP Warning:  Module 'pdo_sqlite' already loaded in Unknown on line 0
+[12-Jun-2015 17:20:39 Asia/Kolkata] PHP Warning:  Module 'pdo_mysql' already loaded in Unknown on line 0
+[12-Jun-2015 17:20:39 Asia/Kolkata] PHP Warning:  Module 'PDO' already loaded in Unknown on line 0
+[12-Jun-2015 17:20:39 Asia/Kolkata] PHP Warning:  Module 'pdo_sqlite' already loaded in Unknown on line 0
+[12-Jun-2015 17:20:39 Asia/Kolkata] PHP Warning:  Module 'pdo_mysql' already loaded in Unknown on line 0
+[12-Jun-2015 17:20:41 Asia/Kolkata] PHP Warning:  Module 'PDO' already loaded in Unknown on line 0
+[12-Jun-2015 17:20:41 Asia/Kolkata] PHP Warning:  Module 'pdo_sqlite' already loaded in Unknown on line 0
+[12-Jun-2015 17:20:41 Asia/Kolkata] PHP Warning:  Module 'pdo_mysql' already loaded in Unknown on line 0
+[12-Jun-2015 17:20:41 Asia/Kolkata] PHP Warning:  Module 'PDO' already loaded in Unknown on line 0
+[12-Jun-2015 17:20:41 Asia/Kolkata] PHP Warning:  Module 'pdo_sqlite' already loaded in Unknown on line 0
+[12-Jun-2015 17:20:41 Asia/Kolkata] PHP Warning:  Module 'pdo_mysql' already loaded in Unknown on line 0
+[12-Jun-2015 17:21:05 Asia/Kolkata] PHP Warning:  Module 'PDO' already loaded in Unknown on line 0
+[12-Jun-2015 17:21:05 Asia/Kolkata] PHP Warning:  Module 'pdo_sqlite' already loaded in Unknown on line 0
+[12-Jun-2015 17:21:05 Asia/Kolkata] PHP Warning:  Module 'pdo_mysql' already loaded in Unknown on line 0
+[12-Jun-2015 17:21:05 Asia/Kolkata] PHP Warning:  Module 'PDO' already loaded in Unknown on line 0
+[12-Jun-2015 17:21:05 Asia/Kolkata] PHP Warning:  Module 'pdo_sqlite' already loaded in Unknown on line 0
+[12-Jun-2015 17:21:05 Asia/Kolkata] PHP Warning:  Module 'pdo_mysql' already loaded in Unknown on line 0
+[12-Jun-2015 17:25:28 Asia/Kolkata] PHP Warning:  Module 'PDO' already loaded in Unknown on line 0
+[12-Jun-2015 17:25:28 Asia/Kolkata] PHP Warning:  Module 'pdo_sqlite' already loaded in Unknown on line 0
+[12-Jun-2015 17:25:28 Asia/Kolkata] PHP Warning:  Module 'pdo_mysql' already loaded in Unknown on line 0
+[12-Jun-2015 17:25:28 Asia/Kolkata] PHP Warning:  Module 'PDO' already loaded in Unknown on line 0
+[12-Jun-2015 17:25:28 Asia/Kolkata] PHP Warning:  Module 'pdo_sqlite' already loaded in Unknown on line 0
+[12-Jun-2015 17:25:28 Asia/Kolkata] PHP Warning:  Module 'pdo_mysql' already loaded in Unknown on line 0
+[12-Jun-2015 17:25:37 Asia/Kolkata] PHP Warning:  Module 'PDO' already loaded in Unknown on line 0
+[12-Jun-2015 17:25:37 Asia/Kolkata] PHP Warning:  Module 'pdo_sqlite' already loaded in Unknown on line 0
+[12-Jun-2015 17:25:37 Asia/Kolkata] PHP Warning:  Module 'pdo_mysql' already loaded in Unknown on line 0
+[12-Jun-2015 17:25:37 Asia/Kolkata] PHP Warning:  Module 'PDO' already loaded in Unknown on line 0
+[12-Jun-2015 17:25:37 Asia/Kolkata] PHP Warning:  Module 'pdo_sqlite' already loaded in Unknown on line 0
+[12-Jun-2015 17:25:37 Asia/Kolkata] PHP Warning:  Module 'pdo_mysql' already loaded in Unknown on line 0
+[12-Jun-2015 17:31:52 Asia/Kolkata] PHP Warning:  Module 'PDO' already loaded in Unknown on line 0
+[12-Jun-2015 17:31:52 Asia/Kolkata] PHP Warning:  Module 'pdo_sqlite' already loaded in Unknown on line 0
+[12-Jun-2015 17:31:52 Asia/Kolkata] PHP Warning:  Module 'pdo_mysql' already loaded in Unknown on line 0
+[12-Jun-2015 17:31:52 Asia/Kolkata] PHP Warning:  Module 'PDO' already loaded in Unknown on line 0
+[12-Jun-2015 17:31:52 Asia/Kolkata] PHP Warning:  Module 'pdo_sqlite' already loaded in Unknown on line 0
+[12-Jun-2015 17:31:52 Asia/Kolkata] PHP Warning:  Module 'pdo_mysql' already loaded in Unknown on line 0
+[12-Jun-2015 17:32:12 Asia/Kolkata] PHP Warning:  Module 'PDO' already loaded in Unknown on line 0
+[12-Jun-2015 17:32:12 Asia/Kolkata] PHP Warning:  Module 'pdo_sqlite' already loaded in Unknown on line 0
+[12-Jun-2015 17:32:12 Asia/Kolkata] PHP Warning:  Module 'pdo_mysql' already loaded in Unknown on line 0
+[12-Jun-2015 17:32:12 Asia/Kolkata] PHP Warning:  Module 'PDO' already loaded in Unknown on line 0
+[12-Jun-2015 17:32:12 Asia/Kolkata] PHP Warning:  Module 'pdo_sqlite' already loaded in Unknown on line 0
+[12-Jun-2015 17:32:12 Asia/Kolkata] PHP Warning:  Module 'pdo_mysql' already loaded in Unknown on line 0
+[12-Jun-2015 21:59:44 Asia/Kolkata] PHP Warning:  Module 'PDO' already loaded in Unknown on line 0
+[12-Jun-2015 21:59:44 Asia/Kolkata] PHP Warning:  Module 'pdo_sqlite' already loaded in Unknown on line 0
+[12-Jun-2015 21:59:44 Asia/Kolkata] PHP Warning:  Module 'pdo_mysql' already loaded in Unknown on line 0
+[12-Jun-2015 21:59:44 Asia/Kolkata] PHP Warning:  Module 'PDO' already loaded in Unknown on line 0
+[12-Jun-2015 21:59:44 Asia/Kolkata] PHP Warning:  Module 'pdo_sqlite' already loaded in Unknown on line 0
+[12-Jun-2015 21:59:44 Asia/Kolkata] PHP Warning:  Module 'pdo_mysql' already loaded in Unknown on line 0
+[13-Jun-2015 11:45:05 Asia/Kolkata] PHP Warning:  Module 'PDO' already loaded in Unknown on line 0
+[13-Jun-2015 11:45:05 Asia/Kolkata] PHP Warning:  Module 'pdo_sqlite' already loaded in Unknown on line 0
+[13-Jun-2015 11:45:05 Asia/Kolkata] PHP Warning:  Module 'pdo_mysql' already loaded in Unknown on line 0
+[13-Jun-2015 11:45:05 Asia/Kolkata] PHP Warning:  Module 'PDO' already loaded in Unknown on line 0
+[13-Jun-2015 11:45:05 Asia/Kolkata] PHP Warning:  Module 'pdo_sqlite' already loaded in Unknown on line 0
+[13-Jun-2015 11:45:05 Asia/Kolkata] PHP Warning:  Module 'pdo_mysql' already loaded in Unknown on line 0
+[13-Jun-2015 11:45:22 Asia/Kolkata] PHP Warning:  Module 'PDO' already loaded in Unknown on line 0
+[13-Jun-2015 11:45:22 Asia/Kolkata] PHP Warning:  Module 'pdo_sqlite' already loaded in Unknown on line 0
+[13-Jun-2015 11:45:22 Asia/Kolkata] PHP Warning:  Module 'pdo_mysql' already loaded in Unknown on line 0
+[13-Jun-2015 11:45:22 Asia/Kolkata] PHP Warning:  Module 'PDO' already loaded in Unknown on line 0
+[13-Jun-2015 11:45:22 Asia/Kolkata] PHP Warning:  Module 'pdo_sqlite' already loaded in Unknown on line 0
+[13-Jun-2015 11:45:22 Asia/Kolkata] PHP Warning:  Module 'pdo_mysql' already loaded in Unknown on line 0
+[13-Jun-2015 11:45:27 Asia/Kolkata] PHP Warning:  Module 'PDO' already loaded in Unknown on line 0
+[13-Jun-2015 11:45:27 Asia/Kolkata] PHP Warning:  Module 'pdo_sqlite' already loaded in Unknown on line 0
+[13-Jun-2015 11:45:27 Asia/Kolkata] PHP Warning:  Module 'pdo_mysql' already loaded in Unknown on line 0
+[13-Jun-2015 11:45:27 Asia/Kolkata] PHP Warning:  Module 'PDO' already loaded in Unknown on line 0
+[13-Jun-2015 11:45:27 Asia/Kolkata] PHP Warning:  Module 'pdo_sqlite' already loaded in Unknown on line 0
+[13-Jun-2015 11:45:27 Asia/Kolkata] PHP Warning:  Module 'pdo_mysql' already loaded in Unknown on line 0
+[13-Jun-2015 11:45:44 Asia/Kolkata] PHP Warning:  Module 'PDO' already loaded in Unknown on line 0
+[13-Jun-2015 11:45:44 Asia/Kolkata] PHP Warning:  Module 'pdo_sqlite' already loaded in Unknown on line 0
+[13-Jun-2015 11:45:44 Asia/Kolkata] PHP Warning:  Module 'pdo_mysql' already loaded in Unknown on line 0
+[13-Jun-2015 11:45:44 Asia/Kolkata] PHP Warning:  Module 'PDO' already loaded in Unknown on line 0
+[13-Jun-2015 11:45:44 Asia/Kolkata] PHP Warning:  Module 'pdo_sqlite' already loaded in Unknown on line 0
+[13-Jun-2015 11:45:44 Asia/Kolkata] PHP Warning:  Module 'pdo_mysql' already loaded in Unknown on line 0
+[13-Jun-2015 12:03:01 Asia/Kolkata] PHP Warning:  Module 'PDO' already loaded in Unknown on line 0
+[13-Jun-2015 12:03:01 Asia/Kolkata] PHP Warning:  Module 'pdo_sqlite' already loaded in Unknown on line 0
+[13-Jun-2015 12:03:01 Asia/Kolkata] PHP Warning:  Module 'pdo_mysql' already loaded in Unknown on line 0
+[13-Jun-2015 12:03:01 Asia/Kolkata] PHP Warning:  Module 'PDO' already loaded in Unknown on line 0
+[13-Jun-2015 12:03:01 Asia/Kolkata] PHP Warning:  Module 'pdo_sqlite' already loaded in Unknown on line 0
+[13-Jun-2015 12:03:01 Asia/Kolkata] PHP Warning:  Module 'pdo_mysql' already loaded in Unknown on line 0
+[13-Jun-2015 12:04:35 Asia/Kolkata] PHP Warning:  Module 'PDO' already loaded in Unknown on line 0
+[13-Jun-2015 12:04:35 Asia/Kolkata] PHP Warning:  Module 'pdo_sqlite' already loaded in Unknown on line 0
+[13-Jun-2015 12:04:35 Asia/Kolkata] PHP Warning:  Module 'pdo_mysql' already loaded in Unknown on line 0
+[13-Jun-2015 12:04:35 Asia/Kolkata] PHP Warning:  Module 'PDO' already loaded in Unknown on line 0
+[13-Jun-2015 12:04:35 Asia/Kolkata] PHP Warning:  Module 'pdo_sqlite' already loaded in Unknown on line 0
+[13-Jun-2015 12:04:35 Asia/Kolkata] PHP Warning:  Module 'pdo_mysql' already loaded in Unknown on line 0
+[13-Jun-2015 12:04:40 Asia/Kolkata] PHP Warning:  Module 'PDO' already loaded in Unknown on line 0
+[13-Jun-2015 12:04:40 Asia/Kolkata] PHP Warning:  Module 'pdo_sqlite' already loaded in Unknown on line 0
+[13-Jun-2015 12:04:40 Asia/Kolkata] PHP Warning:  Module 'pdo_mysql' already loaded in Unknown on line 0
+[13-Jun-2015 12:04:40 Asia/Kolkata] PHP Warning:  Module 'PDO' already loaded in Unknown on line 0
+[13-Jun-2015 12:04:40 Asia/Kolkata] PHP Warning:  Module 'pdo_sqlite' already loaded in Unknown on line 0
+[13-Jun-2015 12:04:40 Asia/Kolkata] PHP Warning:  Module 'pdo_mysql' already loaded in Unknown on line 0
+[13-Jun-2015 12:08:38 Asia/Kolkata] PHP Warning:  Module 'PDO' already loaded in Unknown on line 0
+[13-Jun-2015 12:08:38 Asia/Kolkata] PHP Warning:  Module 'pdo_sqlite' already loaded in Unknown on line 0
+[13-Jun-2015 12:08:38 Asia/Kolkata] PHP Warning:  Module 'pdo_mysql' already loaded in Unknown on line 0
+[13-Jun-2015 12:08:38 Asia/Kolkata] PHP Warning:  Module 'PDO' already loaded in Unknown on line 0
+[13-Jun-2015 12:08:38 Asia/Kolkata] PHP Warning:  Module 'pdo_sqlite' already loaded in Unknown on line 0
+[13-Jun-2015 12:08:38 Asia/Kolkata] PHP Warning:  Module 'pdo_mysql' already loaded in Unknown on line 0
+[13-Jun-2015 12:08:42 Asia/Kolkata] PHP Warning:  Module 'PDO' already loaded in Unknown on line 0
+[13-Jun-2015 12:08:42 Asia/Kolkata] PHP Warning:  Module 'pdo_sqlite' already loaded in Unknown on line 0
+[13-Jun-2015 12:08:42 Asia/Kolkata] PHP Warning:  Module 'pdo_mysql' already loaded in Unknown on line 0
+[13-Jun-2015 12:08:42 Asia/Kolkata] PHP Warning:  Module 'PDO' already loaded in Unknown on line 0
+[13-Jun-2015 12:08:42 Asia/Kolkata] PHP Warning:  Module 'pdo_sqlite' already loaded in Unknown on line 0
+[13-Jun-2015 12:08:42 Asia/Kolkata] PHP Warning:  Module 'pdo_mysql' already loaded in Unknown on line 0
+[13-Jun-2015 12:08:45 Asia/Kolkata] PHP Warning:  Module 'PDO' already loaded in Unknown on line 0
+[13-Jun-2015 12:08:45 Asia/Kolkata] PHP Warning:  Module 'pdo_sqlite' already loaded in Unknown on line 0
+[13-Jun-2015 12:08:45 Asia/Kolkata] PHP Warning:  Module 'pdo_mysql' already loaded in Unknown on line 0
+[13-Jun-2015 12:08:45 Asia/Kolkata] PHP Warning:  Module 'PDO' already loaded in Unknown on line 0
+[13-Jun-2015 12:08:45 Asia/Kolkata] PHP Warning:  Module 'pdo_sqlite' already loaded in Unknown on line 0
+[13-Jun-2015 12:08:45 Asia/Kolkata] PHP Warning:  Module 'pdo_mysql' already loaded in Unknown on line 0
+[13-Jun-2015 13:46:28 Asia/Kolkata] PHP Warning:  Module 'PDO' already loaded in Unknown on line 0
+[13-Jun-2015 13:46:28 Asia/Kolkata] PHP Warning:  Module 'pdo_sqlite' already loaded in Unknown on line 0
+[13-Jun-2015 13:46:28 Asia/Kolkata] PHP Warning:  Module 'pdo_mysql' already loaded in Unknown on line 0
+[13-Jun-2015 13:46:28 Asia/Kolkata] PHP Warning:  Module 'PDO' already loaded in Unknown on line 0
+[13-Jun-2015 13:46:28 Asia/Kolkata] PHP Warning:  Module 'pdo_sqlite' already loaded in Unknown on line 0
+[13-Jun-2015 13:46:28 Asia/Kolkata] PHP Warning:  Module 'pdo_mysql' already loaded in Unknown on line 0
+[13-Jun-2015 13:47:09 Asia/Kolkata] PHP Warning:  Module 'PDO' already loaded in Unknown on line 0
+[13-Jun-2015 13:47:09 Asia/Kolkata] PHP Warning:  Module 'pdo_sqlite' already loaded in Unknown on line 0
+[13-Jun-2015 13:47:09 Asia/Kolkata] PHP Warning:  Module 'pdo_mysql' already loaded in Unknown on line 0
+[13-Jun-2015 13:47:09 Asia/Kolkata] PHP Warning:  Module 'PDO' already loaded in Unknown on line 0
+[13-Jun-2015 13:47:09 Asia/Kolkata] PHP Warning:  Module 'pdo_sqlite' already loaded in Unknown on line 0
+[13-Jun-2015 13:47:09 Asia/Kolkata] PHP Warning:  Module 'pdo_mysql' already loaded in Unknown on line 0
+[13-Jun-2015 13:47:17 Asia/Kolkata] PHP Warning:  Module 'PDO' already loaded in Unknown on line 0
+[13-Jun-2015 13:47:17 Asia/Kolkata] PHP Warning:  Module 'pdo_sqlite' already loaded in Unknown on line 0
+[13-Jun-2015 13:47:17 Asia/Kolkata] PHP Warning:  Module 'pdo_mysql' already loaded in Unknown on line 0
+[13-Jun-2015 13:47:17 Asia/Kolkata] PHP Warning:  Module 'PDO' already loaded in Unknown on line 0
+[13-Jun-2015 13:47:17 Asia/Kolkata] PHP Warning:  Module 'pdo_sqlite' already loaded in Unknown on line 0
+[13-Jun-2015 13:47:17 Asia/Kolkata] PHP Warning:  Module 'pdo_mysql' already loaded in Unknown on line 0
+[13-Jun-2015 13:47:27 Asia/Kolkata] PHP Warning:  Module 'PDO' already loaded in Unknown on line 0
+[13-Jun-2015 13:47:27 Asia/Kolkata] PHP Warning:  Module 'pdo_sqlite' already loaded in Unknown on line 0
+[13-Jun-2015 13:47:27 Asia/Kolkata] PHP Warning:  Module 'pdo_mysql' already loaded in Unknown on line 0
+[13-Jun-2015 13:47:27 Asia/Kolkata] PHP Warning:  Module 'PDO' already loaded in Unknown on line 0
+[13-Jun-2015 13:47:27 Asia/Kolkata] PHP Warning:  Module 'pdo_sqlite' already loaded in Unknown on line 0
+[13-Jun-2015 13:47:27 Asia/Kolkata] PHP Warning:  Module 'pdo_mysql' already loaded in Unknown on line 0
+[13-Jun-2015 13:47:39 Asia/Kolkata] PHP Warning:  Module 'PDO' already loaded in Unknown on line 0
+[13-Jun-2015 13:47:39 Asia/Kolkata] PHP Warning:  Module 'pdo_sqlite' already loaded in Unknown on line 0
+[13-Jun-2015 13:47:39 Asia/Kolkata] PHP Warning:  Module 'pdo_mysql' already loaded in Unknown on line 0
+[13-Jun-2015 13:47:39 Asia/Kolkata] PHP Warning:  Module 'PDO' already loaded in Unknown on line 0
+[13-Jun-2015 13:47:39 Asia/Kolkata] PHP Warning:  Module 'pdo_sqlite' already loaded in Unknown on line 0
+[13-Jun-2015 13:47:39 Asia/Kolkata] PHP Warning:  Module 'pdo_mysql' already loaded in Unknown on line 0
+[13-Jun-2015 17:15:15 Asia/Kolkata] PHP Warning:  Module 'PDO' already loaded in Unknown on line 0
+[13-Jun-2015 17:15:15 Asia/Kolkata] PHP Warning:  Module 'pdo_sqlite' already loaded in Unknown on line 0
+[13-Jun-2015 17:15:15 Asia/Kolkata] PHP Warning:  Module 'pdo_mysql' already loaded in Unknown on line 0
+[13-Jun-2015 17:15:15 Asia/Kolkata] PHP Warning:  Module 'PDO' already loaded in Unknown on line 0
+[13-Jun-2015 17:15:15 Asia/Kolkata] PHP Warning:  Module 'pdo_sqlite' already loaded in Unknown on line 0
+[13-Jun-2015 17:15:15 Asia/Kolkata] PHP Warning:  Module 'pdo_mysql' already loaded in Unknown on line 0
+[13-Jun-2015 17:16:38 Asia/Kolkata] PHP Warning:  Module 'PDO' already loaded in Unknown on line 0
+[13-Jun-2015 17:16:38 Asia/Kolkata] PHP Warning:  Module 'pdo_sqlite' already loaded in Unknown on line 0
+[13-Jun-2015 17:16:38 Asia/Kolkata] PHP Warning:  Module 'pdo_mysql' already loaded in Unknown on line 0
+[13-Jun-2015 17:16:38 Asia/Kolkata] PHP Warning:  Module 'PDO' already loaded in Unknown on line 0
+[13-Jun-2015 17:16:38 Asia/Kolkata] PHP Warning:  Module 'pdo_sqlite' already loaded in Unknown on line 0
+[13-Jun-2015 17:16:38 Asia/Kolkata] PHP Warning:  Module 'pdo_mysql' already loaded in Unknown on line 0
+[13-Jun-2015 17:38:18 Asia/Kolkata] PHP Warning:  Module 'PDO' already loaded in Unknown on line 0
+[13-Jun-2015 17:38:18 Asia/Kolkata] PHP Warning:  Module 'pdo_sqlite' already loaded in Unknown on line 0
+[13-Jun-2015 17:38:18 Asia/Kolkata] PHP Warning:  Module 'pdo_mysql' already loaded in Unknown on line 0
+[13-Jun-2015 17:38:18 Asia/Kolkata] PHP Warning:  Module 'PDO' already loaded in Unknown on line 0
+[13-Jun-2015 17:38:18 Asia/Kolkata] PHP Warning:  Module 'pdo_sqlite' already loaded in Unknown on line 0
+[13-Jun-2015 17:38:18 Asia/Kolkata] PHP Warning:  Module 'pdo_mysql' already loaded in Unknown on line 0
+[13-Jun-2015 17:38:29 Asia/Kolkata] PHP Warning:  Module 'PDO' already loaded in Unknown on line 0
+[13-Jun-2015 17:38:29 Asia/Kolkata] PHP Warning:  Module 'pdo_sqlite' already loaded in Unknown on line 0
+[13-Jun-2015 17:38:29 Asia/Kolkata] PHP Warning:  Module 'pdo_mysql' already loaded in Unknown on line 0
+[13-Jun-2015 17:38:29 Asia/Kolkata] PHP Warning:  Module 'PDO' already loaded in Unknown on line 0
+[13-Jun-2015 17:38:29 Asia/Kolkata] PHP Warning:  Module 'pdo_sqlite' already loaded in Unknown on line 0
+[13-Jun-2015 17:38:29 Asia/Kolkata] PHP Warning:  Module 'pdo_mysql' already loaded in Unknown on line 0
+[13-Jun-2015 17:38:34 Asia/Kolkata] PHP Warning:  Module 'PDO' already loaded in Unknown on line 0
+[13-Jun-2015 17:38:34 Asia/Kolkata] PHP Warning:  Module 'pdo_sqlite' already loaded in Unknown on line 0
+[13-Jun-2015 17:38:34 Asia/Kolkata] PHP Warning:  Module 'pdo_mysql' already loaded in Unknown on line 0
+[13-Jun-2015 17:38:34 Asia/Kolkata] PHP Warning:  Module 'PDO' already loaded in Unknown on line 0
+[13-Jun-2015 17:38:34 Asia/Kolkata] PHP Warning:  Module 'pdo_sqlite' already loaded in Unknown on line 0
+[13-Jun-2015 17:38:34 Asia/Kolkata] PHP Warning:  Module 'pdo_mysql' already loaded in Unknown on line 0
+[13-Jun-2015 17:43:19 Asia/Kolkata] PHP Warning:  Module 'PDO' already loaded in Unknown on line 0
+[13-Jun-2015 17:43:19 Asia/Kolkata] PHP Warning:  Module 'pdo_sqlite' already loaded in Unknown on line 0
+[13-Jun-2015 17:43:19 Asia/Kolkata] PHP Warning:  Module 'pdo_mysql' already loaded in Unknown on line 0
+[13-Jun-2015 17:43:19 Asia/Kolkata] PHP Warning:  Module 'PDO' already loaded in Unknown on line 0
+[13-Jun-2015 17:43:19 Asia/Kolkata] PHP Warning:  Module 'pdo_sqlite' already loaded in Unknown on line 0
+[13-Jun-2015 17:43:19 Asia/Kolkata] PHP Warning:  Module 'pdo_mysql' already loaded in Unknown on line 0
+[13-Jun-2015 17:45:07 Asia/Kolkata] PHP Warning:  Module 'PDO' already loaded in Unknown on line 0
+[13-Jun-2015 17:45:07 Asia/Kolkata] PHP Warning:  Module 'pdo_sqlite' already loaded in Unknown on line 0
+[13-Jun-2015 17:45:07 Asia/Kolkata] PHP Warning:  Module 'pdo_mysql' already loaded in Unknown on line 0
+[13-Jun-2015 17:45:07 Asia/Kolkata] PHP Warning:  Module 'PDO' already loaded in Unknown on line 0
+[13-Jun-2015 17:45:07 Asia/Kolkata] PHP Warning:  Module 'pdo_sqlite' already loaded in Unknown on line 0
+[13-Jun-2015 17:45:07 Asia/Kolkata] PHP Warning:  Module 'pdo_mysql' already loaded in Unknown on line 0
+[13-Jun-2015 17:45:59 Asia/Kolkata] PHP Warning:  Module 'PDO' already loaded in Unknown on line 0
+[13-Jun-2015 17:45:59 Asia/Kolkata] PHP Warning:  Module 'pdo_sqlite' already loaded in Unknown on line 0
+[13-Jun-2015 17:45:59 Asia/Kolkata] PHP Warning:  Module 'pdo_mysql' already loaded in Unknown on line 0
+[13-Jun-2015 17:45:59 Asia/Kolkata] PHP Warning:  Module 'PDO' already loaded in Unknown on line 0
+[13-Jun-2015 17:45:59 Asia/Kolkata] PHP Warning:  Module 'pdo_sqlite' already loaded in Unknown on line 0
+[13-Jun-2015 17:45:59 Asia/Kolkata] PHP Warning:  Module 'pdo_mysql' already loaded in Unknown on line 0
+[13-Jun-2015 17:52:49 Asia/Kolkata] PHP Warning:  Module 'PDO' already loaded in Unknown on line 0
+[13-Jun-2015 17:52:49 Asia/Kolkata] PHP Warning:  Module 'pdo_sqlite' already loaded in Unknown on line 0
+[13-Jun-2015 17:52:49 Asia/Kolkata] PHP Warning:  Module 'pdo_mysql' already loaded in Unknown on line 0
+[13-Jun-2015 17:52:49 Asia/Kolkata] PHP Warning:  Module 'PDO' already loaded in Unknown on line 0
+[13-Jun-2015 17:52:49 Asia/Kolkata] PHP Warning:  Module 'pdo_sqlite' already loaded in Unknown on line 0
+[13-Jun-2015 17:52:49 Asia/Kolkata] PHP Warning:  Module 'pdo_mysql' already loaded in Unknown on line 0
+[13-Jun-2015 17:53:07 Asia/Kolkata] PHP Warning:  Module 'PDO' already loaded in Unknown on line 0
+[13-Jun-2015 17:53:07 Asia/Kolkata] PHP Warning:  Module 'pdo_sqlite' already loaded in Unknown on line 0
+[13-Jun-2015 17:53:07 Asia/Kolkata] PHP Warning:  Module 'pdo_mysql' already loaded in Unknown on line 0
+[13-Jun-2015 17:53:07 Asia/Kolkata] PHP Warning:  Module 'PDO' already loaded in Unknown on line 0
+[13-Jun-2015 17:53:07 Asia/Kolkata] PHP Warning:  Module 'pdo_sqlite' already loaded in Unknown on line 0
+[13-Jun-2015 17:53:07 Asia/Kolkata] PHP Warning:  Module 'pdo_mysql' already loaded in Unknown on line 0
+[13-Jun-2015 17:53:17 Asia/Kolkata] PHP Warning:  Module 'PDO' already loaded in Unknown on line 0
+[13-Jun-2015 17:53:17 Asia/Kolkata] PHP Warning:  Module 'pdo_sqlite' already loaded in Unknown on line 0
+[13-Jun-2015 17:53:17 Asia/Kolkata] PHP Warning:  Module 'pdo_mysql' already loaded in Unknown on line 0
+[13-Jun-2015 17:53:17 Asia/Kolkata] PHP Warning:  Module 'PDO' already loaded in Unknown on line 0
+[13-Jun-2015 17:53:17 Asia/Kolkata] PHP Warning:  Module 'pdo_sqlite' already loaded in Unknown on line 0
+[13-Jun-2015 17:53:17 Asia/Kolkata] PHP Warning:  Module 'pdo_mysql' already loaded in Unknown on line 0
+[13-Jun-2015 17:55:04 Asia/Kolkata] PHP Warning:  Module 'PDO' already loaded in Unknown on line 0
+[13-Jun-2015 17:55:04 Asia/Kolkata] PHP Warning:  Module 'pdo_sqlite' already loaded in Unknown on line 0
+[13-Jun-2015 17:55:04 Asia/Kolkata] PHP Warning:  Module 'pdo_mysql' already loaded in Unknown on line 0
+[13-Jun-2015 17:55:04 Asia/Kolkata] PHP Warning:  Module 'PDO' already loaded in Unknown on line 0
+[13-Jun-2015 17:55:04 Asia/Kolkata] PHP Warning:  Module 'pdo_sqlite' already loaded in Unknown on line 0
+[13-Jun-2015 17:55:04 Asia/Kolkata] PHP Warning:  Module 'pdo_mysql' already loaded in Unknown on line 0
+[13-Jun-2015 17:55:17 Asia/Kolkata] PHP Warning:  Module 'PDO' already loaded in Unknown on line 0
+[13-Jun-2015 17:55:17 Asia/Kolkata] PHP Warning:  Module 'pdo_sqlite' already loaded in Unknown on line 0
+[13-Jun-2015 17:55:17 Asia/Kolkata] PHP Warning:  Module 'pdo_mysql' already loaded in Unknown on line 0
+[13-Jun-2015 17:55:17 Asia/Kolkata] PHP Warning:  Module 'PDO' already loaded in Unknown on line 0
+[13-Jun-2015 17:55:17 Asia/Kolkata] PHP Warning:  Module 'pdo_sqlite' already loaded in Unknown on line 0
+[13-Jun-2015 17:55:17 Asia/Kolkata] PHP Warning:  Module 'pdo_mysql' already loaded in Unknown on line 0
+[13-Jun-2015 17:55:51 Asia/Kolkata] PHP Warning:  Module 'PDO' already loaded in Unknown on line 0
+[13-Jun-2015 17:55:51 Asia/Kolkata] PHP Warning:  Module 'pdo_sqlite' already loaded in Unknown on line 0
+[13-Jun-2015 17:55:51 Asia/Kolkata] PHP Warning:  Module 'pdo_mysql' already loaded in Unknown on line 0
+[13-Jun-2015 17:55:51 Asia/Kolkata] PHP Warning:  Module 'PDO' already loaded in Unknown on line 0
+[13-Jun-2015 17:55:51 Asia/Kolkata] PHP Warning:  Module 'pdo_sqlite' already loaded in Unknown on line 0
+[13-Jun-2015 17:55:51 Asia/Kolkata] PHP Warning:  Module 'pdo_mysql' already loaded in Unknown on line 0
+[13-Jun-2015 18:00:15 Asia/Kolkata] PHP Warning:  Module 'PDO' already loaded in Unknown on line 0
+[13-Jun-2015 18:00:15 Asia/Kolkata] PHP Warning:  Module 'pdo_sqlite' already loaded in Unknown on line 0
+[13-Jun-2015 18:00:15 Asia/Kolkata] PHP Warning:  Module 'pdo_mysql' already loaded in Unknown on line 0
+[13-Jun-2015 18:00:15 Asia/Kolkata] PHP Warning:  Module 'PDO' already loaded in Unknown on line 0
+[13-Jun-2015 18:00:15 Asia/Kolkata] PHP Warning:  Module 'pdo_sqlite' already loaded in Unknown on line 0
+[13-Jun-2015 18:00:15 Asia/Kolkata] PHP Warning:  Module 'pdo_mysql' already loaded in Unknown on line 0
+[13-Jun-2015 18:00:25 Asia/Kolkata] PHP Warning:  Module 'PDO' already loaded in Unknown on line 0
+[13-Jun-2015 18:00:25 Asia/Kolkata] PHP Warning:  Module 'pdo_sqlite' already loaded in Unknown on line 0
+[13-Jun-2015 18:00:25 Asia/Kolkata] PHP Warning:  Module 'pdo_mysql' already loaded in Unknown on line 0
+[13-Jun-2015 18:00:25 Asia/Kolkata] PHP Warning:  Module 'PDO' already loaded in Unknown on line 0
+[13-Jun-2015 18:00:25 Asia/Kolkata] PHP Warning:  Module 'pdo_sqlite' already loaded in Unknown on line 0
+[13-Jun-2015 18:00:25 Asia/Kolkata] PHP Warning:  Module 'pdo_mysql' already loaded in Unknown on line 0
+[13-Jun-2015 18:00:38 Asia/Kolkata] PHP Warning:  Module 'PDO' already loaded in Unknown on line 0
+[13-Jun-2015 18:00:38 Asia/Kolkata] PHP Warning:  Module 'pdo_sqlite' already loaded in Unknown on line 0
+[13-Jun-2015 18:00:38 Asia/Kolkata] PHP Warning:  Module 'pdo_mysql' already loaded in Unknown on line 0
+[13-Jun-2015 18:00:38 Asia/Kolkata] PHP Warning:  Module 'PDO' already loaded in Unknown on line 0
+[13-Jun-2015 18:00:38 Asia/Kolkata] PHP Warning:  Module 'pdo_sqlite' already loaded in Unknown on line 0
+[13-Jun-2015 18:00:38 Asia/Kolkata] PHP Warning:  Module 'pdo_mysql' already loaded in Unknown on line 0
+[13-Jun-2015 18:11:49 Asia/Kolkata] PHP Warning:  Module 'PDO' already loaded in Unknown on line 0
+[13-Jun-2015 18:11:49 Asia/Kolkata] PHP Warning:  Module 'pdo_sqlite' already loaded in Unknown on line 0
+[13-Jun-2015 18:11:49 Asia/Kolkata] PHP Warning:  Module 'pdo_mysql' already loaded in Unknown on line 0
+[13-Jun-2015 18:11:49 Asia/Kolkata] PHP Warning:  Module 'PDO' already loaded in Unknown on line 0
+[13-Jun-2015 18:11:49 Asia/Kolkata] PHP Warning:  Module 'pdo_sqlite' already loaded in Unknown on line 0
+[13-Jun-2015 18:11:49 Asia/Kolkata] PHP Warning:  Module 'pdo_mysql' already loaded in Unknown on line 0
+[13-Jun-2015 18:13:51 Asia/Kolkata] PHP Warning:  Module 'PDO' already loaded in Unknown on line 0
+[13-Jun-2015 18:13:51 Asia/Kolkata] PHP Warning:  Module 'pdo_sqlite' already loaded in Unknown on line 0
+[13-Jun-2015 18:13:51 Asia/Kolkata] PHP Warning:  Module 'pdo_mysql' already loaded in Unknown on line 0
+[13-Jun-2015 18:13:51 Asia/Kolkata] PHP Warning:  Module 'PDO' already loaded in Unknown on line 0
+[13-Jun-2015 18:13:51 Asia/Kolkata] PHP Warning:  Module 'pdo_sqlite' already loaded in Unknown on line 0
+[13-Jun-2015 18:13:51 Asia/Kolkata] PHP Warning:  Module 'pdo_mysql' already loaded in Unknown on line 0
+[13-Jun-2015 18:16:14 Asia/Kolkata] PHP Warning:  Module 'PDO' already loaded in Unknown on line 0
+[13-Jun-2015 18:16:14 Asia/Kolkata] PHP Warning:  Module 'pdo_sqlite' already loaded in Unknown on line 0
+[13-Jun-2015 18:16:14 Asia/Kolkata] PHP Warning:  Module 'pdo_mysql' already loaded in Unknown on line 0
+[13-Jun-2015 18:16:14 Asia/Kolkata] PHP Warning:  Module 'PDO' already loaded in Unknown on line 0
+[13-Jun-2015 18:16:14 Asia/Kolkata] PHP Warning:  Module 'pdo_sqlite' already loaded in Unknown on line 0
+[13-Jun-2015 18:16:14 Asia/Kolkata] PHP Warning:  Module 'pdo_mysql' already loaded in Unknown on line 0
+[13-Jun-2015 18:16:18 Asia/Kolkata] PHP Warning:  Module 'PDO' already loaded in Unknown on line 0
+[13-Jun-2015 18:16:18 Asia/Kolkata] PHP Warning:  Module 'pdo_sqlite' already loaded in Unknown on line 0
+[13-Jun-2015 18:16:18 Asia/Kolkata] PHP Warning:  Module 'pdo_mysql' already loaded in Unknown on line 0
+[13-Jun-2015 18:16:18 Asia/Kolkata] PHP Warning:  Module 'PDO' already loaded in Unknown on line 0
+[13-Jun-2015 18:16:18 Asia/Kolkata] PHP Warning:  Module 'pdo_sqlite' already loaded in Unknown on line 0
+[13-Jun-2015 18:16:18 Asia/Kolkata] PHP Warning:  Module 'pdo_mysql' already loaded in Unknown on line 0
+[13-Jun-2015 18:17:50 Asia/Kolkata] PHP Warning:  Module 'PDO' already loaded in Unknown on line 0
+[13-Jun-2015 18:17:50 Asia/Kolkata] PHP Warning:  Module 'pdo_sqlite' already loaded in Unknown on line 0
+[13-Jun-2015 18:17:50 Asia/Kolkata] PHP Warning:  Module 'pdo_mysql' already loaded in Unknown on line 0
+[13-Jun-2015 18:17:50 Asia/Kolkata] PHP Warning:  Module 'PDO' already loaded in Unknown on line 0
+[13-Jun-2015 18:17:50 Asia/Kolkata] PHP Warning:  Module 'pdo_sqlite' already loaded in Unknown on line 0
+[13-Jun-2015 18:17:50 Asia/Kolkata] PHP Warning:  Module 'pdo_mysql' already loaded in Unknown on line 0
+[13-Jun-2015 18:18:06 Asia/Kolkata] PHP Warning:  Module 'PDO' already loaded in Unknown on line 0
+[13-Jun-2015 18:18:06 Asia/Kolkata] PHP Warning:  Module 'pdo_sqlite' already loaded in Unknown on line 0
+[13-Jun-2015 18:18:06 Asia/Kolkata] PHP Warning:  Module 'pdo_mysql' already loaded in Unknown on line 0
+[13-Jun-2015 18:18:06 Asia/Kolkata] PHP Warning:  Module 'PDO' already loaded in Unknown on line 0
+[13-Jun-2015 18:18:06 Asia/Kolkata] PHP Warning:  Module 'pdo_sqlite' already loaded in Unknown on line 0
+[13-Jun-2015 18:18:06 Asia/Kolkata] PHP Warning:  Module 'pdo_mysql' already loaded in Unknown on line 0
+[13-Jun-2015 18:26:25 Asia/Kolkata] PHP Warning:  Module 'PDO' already loaded in Unknown on line 0
+[13-Jun-2015 18:26:25 Asia/Kolkata] PHP Warning:  Module 'pdo_sqlite' already loaded in Unknown on line 0
+[13-Jun-2015 18:26:25 Asia/Kolkata] PHP Warning:  Module 'pdo_mysql' already loaded in Unknown on line 0
+[13-Jun-2015 18:26:25 Asia/Kolkata] PHP Warning:  Module 'PDO' already loaded in Unknown on line 0
+[13-Jun-2015 18:26:25 Asia/Kolkata] PHP Warning:  Module 'pdo_sqlite' already loaded in Unknown on line 0
+[13-Jun-2015 18:26:25 Asia/Kolkata] PHP Warning:  Module 'pdo_mysql' already loaded in Unknown on line 0
+[13-Jun-2015 18:27:08 Asia/Kolkata] PHP Warning:  Module 'PDO' already loaded in Unknown on line 0
+[13-Jun-2015 18:27:08 Asia/Kolkata] PHP Warning:  Module 'pdo_sqlite' already loaded in Unknown on line 0
+[13-Jun-2015 18:27:08 Asia/Kolkata] PHP Warning:  Module 'pdo_mysql' already loaded in Unknown on line 0
+[13-Jun-2015 18:27:08 Asia/Kolkata] PHP Warning:  Module 'PDO' already loaded in Unknown on line 0
+[13-Jun-2015 18:27:08 Asia/Kolkata] PHP Warning:  Module 'pdo_sqlite' already loaded in Unknown on line 0
+[13-Jun-2015 18:27:08 Asia/Kolkata] PHP Warning:  Module 'pdo_mysql' already loaded in Unknown on line 0
+[13-Jun-2015 18:27:12 Asia/Kolkata] PHP Warning:  Module 'PDO' already loaded in Unknown on line 0
+[13-Jun-2015 18:27:12 Asia/Kolkata] PHP Warning:  Module 'pdo_sqlite' already loaded in Unknown on line 0
+[13-Jun-2015 18:27:12 Asia/Kolkata] PHP Warning:  Module 'pdo_mysql' already loaded in Unknown on line 0
+[13-Jun-2015 18:27:12 Asia/Kolkata] PHP Warning:  Module 'PDO' already loaded in Unknown on line 0
+[13-Jun-2015 18:27:12 Asia/Kolkata] PHP Warning:  Module 'pdo_sqlite' already loaded in Unknown on line 0
+[13-Jun-2015 18:27:12 Asia/Kolkata] PHP Warning:  Module 'pdo_mysql' already loaded in Unknown on line 0
+[13-Jun-2015 18:27:17 Asia/Kolkata] PHP Warning:  Module 'PDO' already loaded in Unknown on line 0
+[13-Jun-2015 18:27:17 Asia/Kolkata] PHP Warning:  Module 'pdo_sqlite' already loaded in Unknown on line 0
+[13-Jun-2015 18:27:17 Asia/Kolkata] PHP Warning:  Module 'pdo_mysql' already loaded in Unknown on line 0
+[13-Jun-2015 18:27:17 Asia/Kolkata] PHP Warning:  Module 'PDO' already loaded in Unknown on line 0
+[13-Jun-2015 18:27:17 Asia/Kolkata] PHP Warning:  Module 'pdo_sqlite' already loaded in Unknown on line 0
+[13-Jun-2015 18:27:17 Asia/Kolkata] PHP Warning:  Module 'pdo_mysql' already loaded in Unknown on line 0
+[13-Jun-2015 18:27:25 Asia/Kolkata] PHP Warning:  Module 'PDO' already loaded in Unknown on line 0
+[13-Jun-2015 18:27:25 Asia/Kolkata] PHP Warning:  Module 'pdo_sqlite' already loaded in Unknown on line 0
+[13-Jun-2015 18:27:25 Asia/Kolkata] PHP Warning:  Module 'pdo_mysql' already loaded in Unknown on line 0
+[13-Jun-2015 18:27:25 Asia/Kolkata] PHP Warning:  Module 'PDO' already loaded in Unknown on line 0
+[13-Jun-2015 18:27:25 Asia/Kolkata] PHP Warning:  Module 'pdo_sqlite' already loaded in Unknown on line 0
+[13-Jun-2015 18:27:25 Asia/Kolkata] PHP Warning:  Module 'pdo_mysql' already loaded in Unknown on line 0
+[13-Jun-2015 18:27:29 Asia/Kolkata] PHP Warning:  Module 'PDO' already loaded in Unknown on line 0
+[13-Jun-2015 18:27:29 Asia/Kolkata] PHP Warning:  Module 'pdo_sqlite' already loaded in Unknown on line 0
+[13-Jun-2015 18:27:29 Asia/Kolkata] PHP Warning:  Module 'pdo_mysql' already loaded in Unknown on line 0
+[13-Jun-2015 18:27:29 Asia/Kolkata] PHP Warning:  Module 'PDO' already loaded in Unknown on line 0
+[13-Jun-2015 18:27:29 Asia/Kolkata] PHP Warning:  Module 'pdo_sqlite' already loaded in Unknown on line 0
+[13-Jun-2015 18:27:29 Asia/Kolkata] PHP Warning:  Module 'pdo_mysql' already loaded in Unknown on line 0
+[13-Jun-2015 18:27:40 Asia/Kolkata] PHP Warning:  Module 'PDO' already loaded in Unknown on line 0
+[13-Jun-2015 18:27:40 Asia/Kolkata] PHP Warning:  Module 'pdo_sqlite' already loaded in Unknown on line 0
+[13-Jun-2015 18:27:40 Asia/Kolkata] PHP Warning:  Module 'pdo_mysql' already loaded in Unknown on line 0
+[13-Jun-2015 18:27:40 Asia/Kolkata] PHP Warning:  Module 'PDO' already loaded in Unknown on line 0
+[13-Jun-2015 18:27:40 Asia/Kolkata] PHP Warning:  Module 'pdo_sqlite' already loaded in Unknown on line 0
+[13-Jun-2015 18:27:40 Asia/Kolkata] PHP Warning:  Module 'pdo_mysql' already loaded in Unknown on line 0
+[13-Jun-2015 18:29:09 Asia/Kolkata] PHP Warning:  Module 'PDO' already loaded in Unknown on line 0
+[13-Jun-2015 18:29:09 Asia/Kolkata] PHP Warning:  Module 'pdo_sqlite' already loaded in Unknown on line 0
+[13-Jun-2015 18:29:09 Asia/Kolkata] PHP Warning:  Module 'pdo_mysql' already loaded in Unknown on line 0
+[13-Jun-2015 18:29:09 Asia/Kolkata] PHP Warning:  Module 'PDO' already loaded in Unknown on line 0
+[13-Jun-2015 18:29:09 Asia/Kolkata] PHP Warning:  Module 'pdo_sqlite' already loaded in Unknown on line 0
+[13-Jun-2015 18:29:09 Asia/Kolkata] PHP Warning:  Module 'pdo_mysql' already loaded in Unknown on line 0
+[13-Jun-2015 18:29:10 Asia/Kolkata] PHP Warning:  Module 'PDO' already loaded in Unknown on line 0
+[13-Jun-2015 18:29:10 Asia/Kolkata] PHP Warning:  Module 'pdo_sqlite' already loaded in Unknown on line 0
+[13-Jun-2015 18:29:10 Asia/Kolkata] PHP Warning:  Module 'pdo_mysql' already loaded in Unknown on line 0
+[13-Jun-2015 18:29:10 Asia/Kolkata] PHP Warning:  Module 'PDO' already loaded in Unknown on line 0
+[13-Jun-2015 18:29:10 Asia/Kolkata] PHP Warning:  Module 'pdo_sqlite' already loaded in Unknown on line 0
+[13-Jun-2015 18:29:10 Asia/Kolkata] PHP Warning:  Module 'pdo_mysql' already loaded in Unknown on line 0
+[13-Jun-2015 18:29:11 Asia/Kolkata] PHP Warning:  Module 'PDO' already loaded in Unknown on line 0
+[13-Jun-2015 18:29:11 Asia/Kolkata] PHP Warning:  Module 'pdo_sqlite' already loaded in Unknown on line 0
+[13-Jun-2015 18:29:11 Asia/Kolkata] PHP Warning:  Module 'pdo_mysql' already loaded in Unknown on line 0
+[13-Jun-2015 18:29:11 Asia/Kolkata] PHP Warning:  Module 'PDO' already loaded in Unknown on line 0
+[13-Jun-2015 18:29:11 Asia/Kolkata] PHP Warning:  Module 'pdo_sqlite' already loaded in Unknown on line 0
+[13-Jun-2015 18:29:11 Asia/Kolkata] PHP Warning:  Module 'pdo_mysql' already loaded in Unknown on line 0
+[13-Jun-2015 18:29:11 Asia/Kolkata] PHP Warning:  Module 'PDO' already loaded in Unknown on line 0
+[13-Jun-2015 18:29:11 Asia/Kolkata] PHP Warning:  Module 'pdo_sqlite' already loaded in Unknown on line 0
+[13-Jun-2015 18:29:11 Asia/Kolkata] PHP Warning:  Module 'pdo_mysql' already loaded in Unknown on line 0
+[13-Jun-2015 18:29:11 Asia/Kolkata] PHP Warning:  Module 'PDO' already loaded in Unknown on line 0
+[13-Jun-2015 18:29:11 Asia/Kolkata] PHP Warning:  Module 'pdo_sqlite' already loaded in Unknown on line 0
+[13-Jun-2015 18:29:11 Asia/Kolkata] PHP Warning:  Module 'pdo_mysql' already loaded in Unknown on line 0
+[13-Jun-2015 18:29:22 Asia/Kolkata] PHP Warning:  Module 'PDO' already loaded in Unknown on line 0
+[13-Jun-2015 18:29:22 Asia/Kolkata] PHP Warning:  Module 'pdo_sqlite' already loaded in Unknown on line 0
+[13-Jun-2015 18:29:22 Asia/Kolkata] PHP Warning:  Module 'pdo_mysql' already loaded in Unknown on line 0
+[13-Jun-2015 18:29:22 Asia/Kolkata] PHP Warning:  Module 'PDO' already loaded in Unknown on line 0
+[13-Jun-2015 18:29:22 Asia/Kolkata] PHP Warning:  Module 'pdo_sqlite' already loaded in Unknown on line 0
+[13-Jun-2015 18:29:22 Asia/Kolkata] PHP Warning:  Module 'pdo_mysql' already loaded in Unknown on line 0
+[13-Jun-2015 18:29:28 Asia/Kolkata] PHP Warning:  Module 'PDO' already loaded in Unknown on line 0
+[13-Jun-2015 18:29:28 Asia/Kolkata] PHP Warning:  Module 'pdo_sqlite' already loaded in Unknown on line 0
+[13-Jun-2015 18:29:28 Asia/Kolkata] PHP Warning:  Module 'pdo_mysql' already loaded in Unknown on line 0
+[13-Jun-2015 18:29:28 Asia/Kolkata] PHP Warning:  Module 'PDO' already loaded in Unknown on line 0
+[13-Jun-2015 18:29:28 Asia/Kolkata] PHP Warning:  Module 'pdo_sqlite' already loaded in Unknown on line 0
+[13-Jun-2015 18:29:28 Asia/Kolkata] PHP Warning:  Module 'pdo_mysql' already loaded in Unknown on line 0
+[13-Jun-2015 18:36:40 Asia/Kolkata] PHP Warning:  Module 'PDO' already loaded in Unknown on line 0
+[13-Jun-2015 18:36:40 Asia/Kolkata] PHP Warning:  Module 'pdo_sqlite' already loaded in Unknown on line 0
+[13-Jun-2015 18:36:40 Asia/Kolkata] PHP Warning:  Module 'pdo_mysql' already loaded in Unknown on line 0
+[13-Jun-2015 18:36:40 Asia/Kolkata] PHP Warning:  Module 'PDO' already loaded in Unknown on line 0
+[13-Jun-2015 18:36:40 Asia/Kolkata] PHP Warning:  Module 'pdo_sqlite' already loaded in Unknown on line 0
+[13-Jun-2015 18:36:40 Asia/Kolkata] PHP Warning:  Module 'pdo_mysql' already loaded in Unknown on line 0
+[13-Jun-2015 18:36:47 Asia/Kolkata] PHP Warning:  Module 'PDO' already loaded in Unknown on line 0
+[13-Jun-2015 18:36:47 Asia/Kolkata] PHP Warning:  Module 'pdo_sqlite' already loaded in Unknown on line 0
+[13-Jun-2015 18:36:47 Asia/Kolkata] PHP Warning:  Module 'pdo_mysql' already loaded in Unknown on line 0
+[13-Jun-2015 18:36:47 Asia/Kolkata] PHP Warning:  Module 'PDO' already loaded in Unknown on line 0
+[13-Jun-2015 18:36:47 Asia/Kolkata] PHP Warning:  Module 'pdo_sqlite' already loaded in Unknown on line 0
+[13-Jun-2015 18:36:47 Asia/Kolkata] PHP Warning:  Module 'pdo_mysql' already loaded in Unknown on line 0
+[13-Jun-2015 18:36:50 Asia/Kolkata] PHP Warning:  Module 'PDO' already loaded in Unknown on line 0
+[13-Jun-2015 18:36:50 Asia/Kolkata] PHP Warning:  Module 'pdo_sqlite' already loaded in Unknown on line 0
+[13-Jun-2015 18:36:50 Asia/Kolkata] PHP Warning:  Module 'pdo_mysql' already loaded in Unknown on line 0
+[13-Jun-2015 18:36:50 Asia/Kolkata] PHP Warning:  Module 'PDO' already loaded in Unknown on line 0
+[13-Jun-2015 18:36:50 Asia/Kolkata] PHP Warning:  Module 'pdo_sqlite' already loaded in Unknown on line 0
+[13-Jun-2015 18:36:50 Asia/Kolkata] PHP Warning:  Module 'pdo_mysql' already loaded in Unknown on line 0
+[13-Jun-2015 18:37:28 Asia/Kolkata] PHP Warning:  Module 'PDO' already loaded in Unknown on line 0
+[13-Jun-2015 18:37:28 Asia/Kolkata] PHP Warning:  Module 'pdo_sqlite' already loaded in Unknown on line 0
+[13-Jun-2015 18:37:28 Asia/Kolkata] PHP Warning:  Module 'pdo_mysql' already loaded in Unknown on line 0
+[13-Jun-2015 18:37:28 Asia/Kolkata] PHP Warning:  Module 'PDO' already loaded in Unknown on line 0
+[13-Jun-2015 18:37:28 Asia/Kolkata] PHP Warning:  Module 'pdo_sqlite' already loaded in Unknown on line 0
+[13-Jun-2015 18:37:28 Asia/Kolkata] PHP Warning:  Module 'pdo_mysql' already loaded in Unknown on line 0
+[13-Jun-2015 18:37:57 Asia/Kolkata] PHP Warning:  Module 'PDO' already loaded in Unknown on line 0
+[13-Jun-2015 18:37:57 Asia/Kolkata] PHP Warning:  Module 'pdo_sqlite' already loaded in Unknown on line 0
+[13-Jun-2015 18:37:57 Asia/Kolkata] PHP Warning:  Module 'pdo_mysql' already loaded in Unknown on line 0
+[13-Jun-2015 18:37:57 Asia/Kolkata] PHP Warning:  Module 'PDO' already loaded in Unknown on line 0
+[13-Jun-2015 18:37:57 Asia/Kolkata] PHP Warning:  Module 'pdo_sqlite' already loaded in Unknown on line 0
+[13-Jun-2015 18:37:57 Asia/Kolkata] PHP Warning:  Module 'pdo_mysql' already loaded in Unknown on line 0
+[13-Jun-2015 18:40:49 Asia/Kolkata] PHP Warning:  Module 'PDO' already loaded in Unknown on line 0
+[13-Jun-2015 18:40:49 Asia/Kolkata] PHP Warning:  Module 'pdo_sqlite' already loaded in Unknown on line 0
+[13-Jun-2015 18:40:49 Asia/Kolkata] PHP Warning:  Module 'pdo_mysql' already loaded in Unknown on line 0
+[13-Jun-2015 18:40:49 Asia/Kolkata] PHP Warning:  Module 'PDO' already loaded in Unknown on line 0
+[13-Jun-2015 18:40:49 Asia/Kolkata] PHP Warning:  Module 'pdo_sqlite' already loaded in Unknown on line 0
+[13-Jun-2015 18:40:49 Asia/Kolkata] PHP Warning:  Module 'pdo_mysql' already loaded in Unknown on line 0
+[13-Jun-2015 22:04:16 Asia/Kolkata] PHP Warning:  Module 'PDO' already loaded in Unknown on line 0
+[13-Jun-2015 22:04:16 Asia/Kolkata] PHP Warning:  Module 'pdo_sqlite' already loaded in Unknown on line 0
+[13-Jun-2015 22:04:16 Asia/Kolkata] PHP Warning:  Module 'pdo_mysql' already loaded in Unknown on line 0
+[13-Jun-2015 22:04:16 Asia/Kolkata] PHP Warning:  Module 'PDO' already loaded in Unknown on line 0
+[13-Jun-2015 22:04:16 Asia/Kolkata] PHP Warning:  Module 'pdo_sqlite' already loaded in Unknown on line 0
+[13-Jun-2015 22:04:16 Asia/Kolkata] PHP Warning:  Module 'pdo_mysql' already loaded in Unknown on line 0
+[13-Jun-2015 22:06:11 Asia/Kolkata] PHP Warning:  Module 'PDO' already loaded in Unknown on line 0
+[13-Jun-2015 22:06:11 Asia/Kolkata] PHP Warning:  Module 'pdo_sqlite' already loaded in Unknown on line 0
+[13-Jun-2015 22:06:11 Asia/Kolkata] PHP Warning:  Module 'pdo_mysql' already loaded in Unknown on line 0
+[13-Jun-2015 22:06:11 Asia/Kolkata] PHP Warning:  Module 'PDO' already loaded in Unknown on line 0
+[13-Jun-2015 22:06:11 Asia/Kolkata] PHP Warning:  Module 'pdo_sqlite' already loaded in Unknown on line 0
+[13-Jun-2015 22:06:11 Asia/Kolkata] PHP Warning:  Module 'pdo_mysql' already loaded in Unknown on line 0
+[13-Jun-2015 22:06:36 Asia/Kolkata] PHP Warning:  Module 'PDO' already loaded in Unknown on line 0
+[13-Jun-2015 22:06:36 Asia/Kolkata] PHP Warning:  Module 'pdo_sqlite' already loaded in Unknown on line 0
+[13-Jun-2015 22:06:36 Asia/Kolkata] PHP Warning:  Module 'pdo_mysql' already loaded in Unknown on line 0
+[13-Jun-2015 22:06:36 Asia/Kolkata] PHP Warning:  Module 'PDO' already loaded in Unknown on line 0
+[13-Jun-2015 22:06:36 Asia/Kolkata] PHP Warning:  Module 'pdo_sqlite' already loaded in Unknown on line 0
+[13-Jun-2015 22:06:36 Asia/Kolkata] PHP Warning:  Module 'pdo_mysql' already loaded in Unknown on line 0
+[13-Jun-2015 22:07:22 Asia/Kolkata] PHP Warning:  Module 'PDO' already loaded in Unknown on line 0
+[13-Jun-2015 22:07:22 Asia/Kolkata] PHP Warning:  Module 'pdo_sqlite' already loaded in Unknown on line 0
+[13-Jun-2015 22:07:22 Asia/Kolkata] PHP Warning:  Module 'pdo_mysql' already loaded in Unknown on line 0
+[13-Jun-2015 22:07:22 Asia/Kolkata] PHP Warning:  Module 'PDO' already loaded in Unknown on line 0
+[13-Jun-2015 22:07:22 Asia/Kolkata] PHP Warning:  Module 'pdo_sqlite' already loaded in Unknown on line 0
+[13-Jun-2015 22:07:22 Asia/Kolkata] PHP Warning:  Module 'pdo_mysql' already loaded in Unknown on line 0
+[13-Jun-2015 22:08:14 Asia/Kolkata] PHP Warning:  Module 'PDO' already loaded in Unknown on line 0
+[13-Jun-2015 22:08:14 Asia/Kolkata] PHP Warning:  Module 'pdo_sqlite' already loaded in Unknown on line 0
+[13-Jun-2015 22:08:14 Asia/Kolkata] PHP Warning:  Module 'pdo_mysql' already loaded in Unknown on line 0
+[13-Jun-2015 22:08:14 Asia/Kolkata] PHP Warning:  Module 'PDO' already loaded in Unknown on line 0
+[13-Jun-2015 22:08:14 Asia/Kolkata] PHP Warning:  Module 'pdo_sqlite' already loaded in Unknown on line 0
+[13-Jun-2015 22:08:14 Asia/Kolkata] PHP Warning:  Module 'pdo_mysql' already loaded in Unknown on line 0
+[13-Jun-2015 22:08:18 Asia/Kolkata] PHP Warning:  Module 'PDO' already loaded in Unknown on line 0
+[13-Jun-2015 22:08:18 Asia/Kolkata] PHP Warning:  Module 'pdo_sqlite' already loaded in Unknown on line 0
+[13-Jun-2015 22:08:18 Asia/Kolkata] PHP Warning:  Module 'pdo_mysql' already loaded in Unknown on line 0
+[13-Jun-2015 22:08:18 Asia/Kolkata] PHP Warning:  Module 'PDO' already loaded in Unknown on line 0
+[13-Jun-2015 22:08:18 Asia/Kolkata] PHP Warning:  Module 'pdo_sqlite' already loaded in Unknown on line 0
+[13-Jun-2015 22:08:18 Asia/Kolkata] PHP Warning:  Module 'pdo_mysql' already loaded in Unknown on line 0
+[13-Jun-2015 22:08:50 Asia/Kolkata] PHP Warning:  Module 'PDO' already loaded in Unknown on line 0
+[13-Jun-2015 22:08:50 Asia/Kolkata] PHP Warning:  Module 'pdo_sqlite' already loaded in Unknown on line 0
+[13-Jun-2015 22:08:50 Asia/Kolkata] PHP Warning:  Module 'pdo_mysql' already loaded in Unknown on line 0
+[13-Jun-2015 22:08:50 Asia/Kolkata] PHP Warning:  Module 'PDO' already loaded in Unknown on line 0
+[13-Jun-2015 22:08:50 Asia/Kolkata] PHP Warning:  Module 'pdo_sqlite' already loaded in Unknown on line 0
+[13-Jun-2015 22:08:50 Asia/Kolkata] PHP Warning:  Module 'pdo_mysql' already loaded in Unknown on line 0
+[14-Jun-2015 12:27:25 Asia/Kolkata] PHP Warning:  Module 'PDO' already loaded in Unknown on line 0
+[14-Jun-2015 12:27:25 Asia/Kolkata] PHP Warning:  Module 'pdo_sqlite' already loaded in Unknown on line 0
+[14-Jun-2015 12:27:25 Asia/Kolkata] PHP Warning:  Module 'pdo_mysql' already loaded in Unknown on line 0
+[14-Jun-2015 12:27:25 Asia/Kolkata] PHP Warning:  Module 'PDO' already loaded in Unknown on line 0
+[14-Jun-2015 12:27:25 Asia/Kolkata] PHP Warning:  Module 'pdo_sqlite' already loaded in Unknown on line 0
+[14-Jun-2015 12:27:25 Asia/Kolkata] PHP Warning:  Module 'pdo_mysql' already loaded in Unknown on line 0
+[14-Jun-2015 12:27:34 Asia/Kolkata] PHP Warning:  Module 'PDO' already loaded in Unknown on line 0
+[14-Jun-2015 12:27:34 Asia/Kolkata] PHP Warning:  Module 'pdo_sqlite' already loaded in Unknown on line 0
+[14-Jun-2015 12:27:34 Asia/Kolkata] PHP Warning:  Module 'pdo_mysql' already loaded in Unknown on line 0
+[14-Jun-2015 12:27:34 Asia/Kolkata] PHP Warning:  Module 'PDO' already loaded in Unknown on line 0
+[14-Jun-2015 12:27:34 Asia/Kolkata] PHP Warning:  Module 'pdo_sqlite' already loaded in Unknown on line 0
+[14-Jun-2015 12:27:34 Asia/Kolkata] PHP Warning:  Module 'pdo_mysql' already loaded in Unknown on line 0
+[14-Jun-2015 12:27:45 Asia/Kolkata] PHP Warning:  Module 'PDO' already loaded in Unknown on line 0
+[14-Jun-2015 12:27:45 Asia/Kolkata] PHP Warning:  Module 'pdo_sqlite' already loaded in Unknown on line 0
+[14-Jun-2015 12:27:45 Asia/Kolkata] PHP Warning:  Module 'pdo_mysql' already loaded in Unknown on line 0
+[14-Jun-2015 12:27:45 Asia/Kolkata] PHP Warning:  Module 'PDO' already loaded in Unknown on line 0
+[14-Jun-2015 12:27:45 Asia/Kolkata] PHP Warning:  Module 'pdo_sqlite' already loaded in Unknown on line 0
+[14-Jun-2015 12:27:45 Asia/Kolkata] PHP Warning:  Module 'pdo_mysql' already loaded in Unknown on line 0
+[14-Jun-2015 12:27:52 Asia/Kolkata] PHP Warning:  Module 'PDO' already loaded in Unknown on line 0
+[14-Jun-2015 12:27:52 Asia/Kolkata] PHP Warning:  Module 'pdo_sqlite' already loaded in Unknown on line 0
+[14-Jun-2015 12:27:52 Asia/Kolkata] PHP Warning:  Module 'pdo_mysql' already loaded in Unknown on line 0
+[14-Jun-2015 12:27:52 Asia/Kolkata] PHP Warning:  Module 'PDO' already loaded in Unknown on line 0
+[14-Jun-2015 12:27:52 Asia/Kolkata] PHP Warning:  Module 'pdo_sqlite' already loaded in Unknown on line 0
+[14-Jun-2015 12:27:52 Asia/Kolkata] PHP Warning:  Module 'pdo_mysql' already loaded in Unknown on line 0
+[14-Jun-2015 12:28:09 Asia/Kolkata] PHP Warning:  Module 'PDO' already loaded in Unknown on line 0
+[14-Jun-2015 12:28:09 Asia/Kolkata] PHP Warning:  Module 'pdo_sqlite' already loaded in Unknown on line 0
+[14-Jun-2015 12:28:09 Asia/Kolkata] PHP Warning:  Module 'pdo_mysql' already loaded in Unknown on line 0
+[14-Jun-2015 12:28:09 Asia/Kolkata] PHP Warning:  Module 'PDO' already loaded in Unknown on line 0
+[14-Jun-2015 12:28:09 Asia/Kolkata] PHP Warning:  Module 'pdo_sqlite' already loaded in Unknown on line 0
+[14-Jun-2015 12:28:09 Asia/Kolkata] PHP Warning:  Module 'pdo_mysql' already loaded in Unknown on line 0
+[14-Jun-2015 12:28:13 Asia/Kolkata] PHP Warning:  Module 'PDO' already loaded in Unknown on line 0
+[14-Jun-2015 12:28:13 Asia/Kolkata] PHP Warning:  Module 'pdo_sqlite' already loaded in Unknown on line 0
+[14-Jun-2015 12:28:13 Asia/Kolkata] PHP Warning:  Module 'pdo_mysql' already loaded in Unknown on line 0
+[14-Jun-2015 12:28:13 Asia/Kolkata] PHP Warning:  Module 'PDO' already loaded in Unknown on line 0
+[14-Jun-2015 12:28:13 Asia/Kolkata] PHP Warning:  Module 'pdo_sqlite' already loaded in Unknown on line 0
+[14-Jun-2015 12:28:13 Asia/Kolkata] PHP Warning:  Module 'pdo_mysql' already loaded in Unknown on line 0
+[14-Jun-2015 12:28:19 Asia/Kolkata] PHP Warning:  Module 'PDO' already loaded in Unknown on line 0
+[14-Jun-2015 12:28:19 Asia/Kolkata] PHP Warning:  Module 'pdo_sqlite' already loaded in Unknown on line 0
+[14-Jun-2015 12:28:19 Asia/Kolkata] PHP Warning:  Module 'pdo_mysql' already loaded in Unknown on line 0
+[14-Jun-2015 12:28:19 Asia/Kolkata] PHP Warning:  Module 'PDO' already loaded in Unknown on line 0
+[14-Jun-2015 12:28:19 Asia/Kolkata] PHP Warning:  Module 'pdo_sqlite' already loaded in Unknown on line 0
+[14-Jun-2015 12:28:19 Asia/Kolkata] PHP Warning:  Module 'pdo_mysql' already loaded in Unknown on line 0
+[14-Jun-2015 12:28:22 Asia/Kolkata] PHP Warning:  Module 'PDO' already loaded in Unknown on line 0
+[14-Jun-2015 12:28:22 Asia/Kolkata] PHP Warning:  Module 'pdo_sqlite' already loaded in Unknown on line 0
+[14-Jun-2015 12:28:22 Asia/Kolkata] PHP Warning:  Module 'pdo_mysql' already loaded in Unknown on line 0
+[14-Jun-2015 12:28:22 Asia/Kolkata] PHP Warning:  Module 'PDO' already loaded in Unknown on line 0
+[14-Jun-2015 12:28:22 Asia/Kolkata] PHP Warning:  Module 'pdo_sqlite' already loaded in Unknown on line 0
+[14-Jun-2015 12:28:22 Asia/Kolkata] PHP Warning:  Module 'pdo_mysql' already loaded in Unknown on line 0
+[14-Jun-2015 12:28:24 Asia/Kolkata] PHP Warning:  Module 'PDO' already loaded in Unknown on line 0
+[14-Jun-2015 12:28:24 Asia/Kolkata] PHP Warning:  Module 'pdo_sqlite' already loaded in Unknown on line 0
+[14-Jun-2015 12:28:24 Asia/Kolkata] PHP Warning:  Module 'pdo_mysql' already loaded in Unknown on line 0
+[14-Jun-2015 12:28:24 Asia/Kolkata] PHP Warning:  Module 'PDO' already loaded in Unknown on line 0
+[14-Jun-2015 12:28:24 Asia/Kolkata] PHP Warning:  Module 'pdo_sqlite' already loaded in Unknown on line 0
+[14-Jun-2015 12:28:24 Asia/Kolkata] PHP Warning:  Module 'pdo_mysql' already loaded in Unknown on line 0
+[14-Jun-2015 12:28:32 Asia/Kolkata] PHP Warning:  Module 'PDO' already loaded in Unknown on line 0
+[14-Jun-2015 12:28:32 Asia/Kolkata] PHP Warning:  Module 'pdo_sqlite' already loaded in Unknown on line 0
+[14-Jun-2015 12:28:32 Asia/Kolkata] PHP Warning:  Module 'pdo_mysql' already loaded in Unknown on line 0
+[14-Jun-2015 12:28:32 Asia/Kolkata] PHP Warning:  Module 'PDO' already loaded in Unknown on line 0
+[14-Jun-2015 12:28:32 Asia/Kolkata] PHP Warning:  Module 'pdo_sqlite' already loaded in Unknown on line 0
+[14-Jun-2015 12:28:32 Asia/Kolkata] PHP Warning:  Module 'pdo_mysql' already loaded in Unknown on line 0

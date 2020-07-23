@@ -1,0 +1,130 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8" />
+    <title>{% block title %}{{ 'homepage.meta_title'|trans({}, 'forms') }}{% endblock %}</title>
+
+    {% block stylesheets %}
+        {% stylesheets output='css/*.css' filter='cssrewrite'
+        'bundles/acmedemo/css/*.css'
+        %}
+        <link href="{{ asset_url }}" rel="stylesheet" media="screen" />
+        {% endstylesheets %}
+    {% endblock %}
+
+
+    <link rel="icon" type="image/x-icon" href="{{ asset('favicon.ico') }}" />
+</head>
+<body>
+{% block header%}
+
+
+    {% if is_granted("IS_AUTHENTICATED_REMEMBERED") %}
+
+        <div id="home_head_bar_sm">
+
+            <div id="logged_out_menu_bar">
+                <a href="/app_dev.php">
+                    <i id="herecut_logo_sm"></i>
+                </a>
+
+                <div id="app_container">
+                    <a id="logout_link" href="{{ path("logout") }}">{{ 'homepage_login.logout'|trans({}, 'forms') }}</a>
+                </div> {#end login container#}
+            </div>
+
+        </div>
+
+    {% else %}
+        <div id="home_head_bar">
+            <div id="logged_out_menu_bar">
+                <a href="/app_dev.php">
+               <!-- <i id="herecut_logo"></i>-->
+                </a>
+                <div id="logged_out_laglog_box">
+                {#language select begin#}
+
+
+
+                    {#login form#}
+                    <div id="login_container">
+
+                    <form action="{{ path("login_check") }}" method="post" novalidate="novalidate">
+
+                        <div id="username_field">
+                            <input type="text" id="username" name="_username" placeholder="{{ 'security.login.username'|trans({}, 'forms') }}" value="{% if last_username is defined %} {{ last_username }} {% endif %}" required="required" />
+                        </div>
+                        <div id="password_field">
+                            <input type="password" id="password" name="_password" placeholder="{{ 'security.login.password'|trans({}, 'forms') }}" required="required" />
+                        </div>
+
+                        <div id="remember_me_box">
+                            <input type="checkbox" id="remember_me" name="_remember_me" value="on" />
+                            <label for="remember_me">{{ 'security.login.remember_me'|trans({}, 'forms') }}</label>
+                        </div>
+
+                        <div id="forgot_password_box">
+                           <!-- <a href="{{ path('pass_recover') }}">{{ 'security.login.forgot_password'|trans({}, 'forms') }}</a>-->
+                        </div>
+                        <input type="hidden" name="_csrf_token" value="{{ csrf_token('authenticate') }}">
+                        <div id="login_button">
+                            <input type="submit" id="_submit" name="_submit" value="{{ 'security.login.submit'|trans({}, 'forms') }}" />
+                        </div>
+
+                    </form>
+                    </div> {#end login container#}
+
+                    {#language select begin#}
+                    <div id="set_language">
+                        <form action="{{ path("language") }}" method="post" novalidate="novalidate">
+                            <select name="langPick" class="drop_down" onchange="this.form.submit();">
+                                <option value="">{{ 'form.set_language'|trans({}, 'forms') }}</option>
+                                <option value="fr">{{ 'form.language.set_french'|trans({}, 'forms') }}</option>
+                                <option value="en">{{ 'form.language.set_english'|trans({}, 'forms') }}</option>
+                              <!--  <option value="gn">{{ 'form.language.set_german'|trans({}, 'forms') }}</option> -->
+                            </select>
+
+                        </form>
+                    </div>{#end of lang log box#}
+
+                </div>{#end of logged out menu bar#}
+            </div>
+        </div> {#end of home head bar#}
+    {% endif %}
+
+
+
+    {% for type, messages in app.session.flashBag.all %}
+        {% for message in messages %}
+            <div class="{{ type }}">
+                {{ message|trans({}, 'FOSUserBundle') }}
+            </div>
+        {% endfor %}
+    {% endfor %}
+
+
+{%  endblock %}
+{% block body %}
+    <main>
+
+
+
+    </main>
+{% endblock %}
+{% block javascripts %}{% endblock %}
+</body>
+</html>
+
+
+
+
+
+
+
+
+
+
+
+
+
+

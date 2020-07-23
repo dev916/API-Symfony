@@ -1,0 +1,60 @@
+{% extends 'AcmeDemoBundle::base.html.twig' %}
+
+
+
+
+
+{% block body %}
+    <body id="logout">
+    <main>
+
+        {% if is_granted("IS_AUTHENTICATED_REMEMBERED")==false %}
+
+            <article id="hm_logout_text">
+                <div id="pands_splash"><a href="https://play.google.com/store/apps/details?id=com.herecut.app.herecut&hl=en" target="_blank"><div id="google_app"></div></a></div>
+                <div id="home_descrip">
+
+                    <div id="home_descrip_txt">
+
+                    <h1>HereCut lets Service Providers and Consumers intelligently connect to give both a better, more consistent experience.</h1>
+<p>
+                    Ready to get a consistent experience with any service? HereCut saves your looks!
+
+    Save your services and styles for easy reference for future services/styles. Tag and search by services/styles for services/styles ideas. The HereCut platform empowers beauty professionals, salons and barbers etc. by helping to manage their current and potential client relationships.</p>
+<p>
+    Clients can search, chat and read reviews of professionals offering hair, beard, nails, brows, waxing and other related services. They can save, tag and share their looks with our photo shoot feature that helps users achieve a more consistent rate of satisfaction. Find haircut, hair salons, hair stylists, barbershops, estheticians, nail or makeup artists, tattoo artists, spa, plastic surgeons and other related service providers or in your area.</p>
+                        <p>
+                        <h2>FOR PROFESSIONALS</h2>
+
+                            We offer tools to manage and market your business and deliver a seamless experience for your customers which include:
+                            <ul>
+                                <li>6 Month Free Trail</li>
+                                <li>$5.00 a Month or $4.00 with a Year Subscription</li>
+                            <li>Client management tools, including unlimited storage for service documentation, branded services, shared calendar for employees, appointment calendar </li>
+                            <li>Client directory </li>
+                            <li>Personalized business profile and list your services and prices </li>
+                            <li>Client reviews and ratings and compare prices </li>
+                            <li>Chat with clients </li>
+                            <li>Help retain clients and reduce no-shows </li>
+                            <li>Tag photo shoot of client service </li>
+                            <li>chat with clients and businesses </li>
+                            <li>follow your clients </li>
+                            <li>Invite your clients & easily manage all of your services </li>
+                            <li>Get discovered by new clients & grow your business </li>
+                            <li>Customize your online profile to match your personal brand </li>
+                            <li>Integrate with your website, add to Facebook, and invite clients. (No website required.)</li>
+                        </ul>
+                        </p>
+<p>                    Much more coming!</p>
+                        <p>© 2020 HereCut. All rights reserved.</p>
+                    </div>
+
+                </div>
+
+            </article>
+
+        {% endif %}
+
+    </main>
+    </body>
+{% endblock %}

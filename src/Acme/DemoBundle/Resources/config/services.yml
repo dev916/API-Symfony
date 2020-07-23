@@ -1,0 +1,33 @@
+parameters:
+     harx_website.UserManager.class: Acme\DemoBundle\DependencyInjection\UserManager
+
+services:
+#    harx_website.example:
+#        class: %harx_website.example.class%
+#        arguments: [@service_id, "plain_value", %parameter%]
+
+    my_user.manager:
+        class: %harx_website.UserManager.class%
+        arguments:
+            - @security.encoder_factory
+        tags:
+            - { name: doctrine.event_listener, event: prePersist }
+
+    app.locale_listener:
+            class: Acme\DemoBundle\EventListener\LocaleListener
+            arguments: ["%kernel.default_locale%"]
+            tags:
+                - { name: kernel.event_subscriber }
+
+
+    #app.locale_listener:
+    #        class: Harx\WebsiteBundle\EventListener\LocaleListener
+    #        arguments: ["%kernel.default_locale%"]
+    #        tags:
+    #            - { name: kernel.event_subscriber }
+
+  ##  app.user_locale_listener:
+  ##          class: Harx\WebsiteBundle\EventListener\UserLocaleListener
+  ##          arguments: [@session]
+  ##          tags:
+  ##              - { name: kernel.event_listener, event: security.interactive_login, method: onInteractiveLogin }

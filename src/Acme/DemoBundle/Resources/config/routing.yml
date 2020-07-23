@@ -1,0 +1,72 @@
+#_demo:
+#    pattern:  /
+#    defaults: { _controller: AcmeDemoBundle:Demo:login}
+homepage:
+    path: /
+    defaults: { _controller: AcmeDemoBundle:HomePage:index }
+
+service:
+    path: /pands
+    defaults: { _controller: AcmeDemoBundle:PandS:products }
+
+##_admpanel:
+##    pattern:  /admpanel
+##    defaults: { _controller: AcmeDemoBundle:Admin:login}
+
+_demo_secured:
+    resource: "@AcmeDemoBundle/Controller/SecuredController.php"
+    type:     annotation
+
+_webservice:
+    resource: "@AcmeDemoBundle/Controller/ApiController.php"
+    type:     annotation
+    prefix:   /webservice
+#_demo:
+#    resource: "@AcmeDemoBundle/Controller/DemoController.php"
+#    type:     annotation
+#    prefix:   /
+
+_admpanel:
+    resource: "@AcmeDemoBundle/Controller/AdminController.php"
+    type:     annotation
+    prefix:   /admpanel
+
+login:
+    path:     /login
+    defaults: { _controller: AcmeDemoBundle:Security:login }
+
+login_check:
+    path: /login_check
+
+logout:
+    path: /logout
+
+pass_recover:
+    path: reset
+  ##  defaults: { _controller: HarxWebsiteBundle:Resetting:resetting }
+
+user_resetting_send_email:
+    path: reset_send_email
+   ## defaults: { _controller: HarxWebsiteBundle:Resetting:sendEmail }
+
+done:
+    path: done
+    defaults: { _controller: AcmeDemoBundle:Payment:done }
+
+payum_all:
+    resource: "@PayumBundle/Resources/config/routing/all.xml"
+
+member:
+    path: /member
+    defaults: { _controller: AcmeDemoBundle:Payment:prepare }
+
+
+update_profile:
+    path: update_profile
+    defaults: { _controller: AcmeDemoBundle:Profile:profileupdate }
+
+
+    
+language:
+    path:     /choose_language
+    defaults: { _controller: AcmeDemoBundle:Language:chooseLanguage }

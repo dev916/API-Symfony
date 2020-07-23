@@ -1,0 +1,114 @@
+body { font-family:Arial, Helvetica, sans-serif; font-size:12px; overflow-x:hidden; font-weight:normal; background:url(../images/bg.gif); }  
+a, body, h1 { color:#333; }
+.min-height { min-height:50px ;  }
+
+.main { width:980px; margin:0 auto; }
+.main-full { width:100% !important; margin:0 20px; min-width:980px !important; }
+
+/* vertical menu */
+.left-baar {width:160px; position:absolute; left:20px; height:100%; margin-left:-20px; padding-left:20px;  padding-right:10px; padding-top:20px; 
+    overflow: visible; }
+
+.glossymenu { margin-left:-20px !important;  }
+
+.glossymenu, .glossymenu li ul{ margin: 0; padding: 0; }
+.glossymenu li{ position: relative; border-bottom:1px #1d1d1d solid; border-top:1px #343434 solid;  margin-right:-10px !important;	 }
+.glossymenu li a{ color: #adadad !important; display: block; width: auto; padding: 5px 0; padding-left:20px !important; padding-left: 10px; text-decoration: none; }
+.glossymenu li ul{ /*SUB MENU STYLE*/ position: absolute; width: 200px; background:url(../images/bg.gif); left: 0; top: 0; display: none; border:1px #000000 solid; z-index:999; }
+.glossymenu li ul li{ float: left; }
+.glossymenu li ul a{ width: 180px; /*WIDTH OF SUB MENU ITEMS - 10px padding-left for A elements */ }
+.glossymenu .arrowdiv{ position: absolute; right: 14px; background: url(../images/menu-arrow.png) no-repeat center; }
+
+ .glossymenu li a.active, .glossymenu li a:hover {  color:#FFF !important;  }
+/* Holly Hack for IE \*/
+* html .glossymenu li { float: left; height: 1%; }
+* html .glossymenu li a { height: 1%; }
+
+.profilepic {margin:0 auto; margin-bottom:10px; text-align:center }
+.profilepic img { width:100%;  padding:4px; background:#343434; border:2px #1d1d1d solid; }
+.profilepic-div { width:80px; margin-left:30px; }
+.profilepic input[type="file"] { cursor:pointer; position:relative; border:1px red solid !important; height:20px !important; height:20px !important; background:red !important; overflow:hidden !important;
+
+/* IE 8 */
+  -ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=0)";
+/* IE 5-7 */
+ filter: alpha(opacity=0);
+  /* Netscape */
+  -moz-opacity: 0;
+  /* Safari 1.x */
+  -khtml-opacity: 0;
+  /* Good browsers */
+  opacity: 0; }
+.profilepic .camera { position:absolute; width:20px !important; height:20px !important; margin-left:98px; margin-top:5px; color:#FFF !important;}
+.input-file { width:20px; height:20px;z-index:9; position:absolute; z-index:9; border:none !important; 	 }
+.input-file:focus { outline:none; }
+
+
+/* right-box */
+.right-box { margin-left:170px; padding-left:20px; min-height:600px;  padding-top:20px; padding-right:40px; background:#FFF;
+
+box-shadow:-7px -5px 5px -2px #000000 !important;
+
+ }
+
+/* breadcrumb */
+.breadcrumb { margin:5px 0px 10px; }
+.breadcrumb ul li { display:inline; font-size:12px !important;  }
+.breadcrumb ul li, .breadcrumb ul li a {  color:#afafaf !important;  }
+
+/* login */
+.login-box { width:450px !important; margin-left:261px ; }
+.lost-password-box { width:450px !important; margin-left:-10000px; }
+.creat-account-box { width:850px; margin-left:-10000px; }
+
+
+.powered-by { margin-top:15px !important; position:absolute; text-align:right; width:98%;  }
+
+/* header */
+.header { background:#FFF; border-bottom:1px #E9E9E9 solid; position:relative; z-index:99;
+
+box-shadow:0px 0px 4px #666666; -webkit-box-shadow:0px 0px 4px #666666; -moz-box-shadow:0px 0px 4px #666666; -ms-box-shadow:0px 0px 4px #666666; -o-box-shadow:0px 0px 4px #666666; -khtml-box-shadow:0px 0px 4px #666666; }
+.header .logo { width:200px; float:left; }
+.dropdown-menu2 { margin-left:-60px !important; }
+
+/* dashbord */
+.dashbord-height {}
+.dashbord-height ul li, .dashbord-height ul li a { color:#FFF; }
+.dashbord-height ul li span { float:right }
+.dashbord-height ul li a {}
+
+.performance {}
+.performance li { line-height:30px; border-bottom:1px #CCC solid; }
+
+/* buy package */
+.buy-package .row .buy-heading { margin-left:50px; }
+[class^=buy-package-tag-] { width:56px; height:56px; position:absolute; margin:-5px 0px 0px -5px; }
+.buy-package-tag-bought { background:url(../images/buy-package/buy-package-bought.png); }
+.buy-package-tag-new { background:url(../images/buy-package/buy-package-new.png); }
+.buy-package-tag-popular { background:url(../images/buy-package/buy-package-popular.png); }
+
+
+/* news-n-updates */
+.news-n-updates {}
+.news-n-updates-data { background:red; color:#FFF; }
+
+.news-n-updates-date {}
+.news-n-updates-date-year {}
+.news-n-updates-date-date {}
+.news-n-updates-date-month {}
+
+/**/
+.popup-left-box { width:20%; float:left; }
+.popup-right-box { width:78%; float:right; }
+
+
+/* footer */
+.footer { border-top:1px e9e9e9 solid; margin-top:10px; }
+
+/* extra */
+.fg-toolbar input[type="text"], .fg-toolbar select { padding:4px !important }
+.fg-toolbar label { display:inline-block !important; }
+.fg-toolbar { background:#ececec !important;	 }
+#cboxContent { position: fixed !important; top: 2% !important;}
+
+

@@ -1,0 +1,62 @@
+# Security
+"Bad credentials": Nom d'utilisateur ou mot de passe incorrect
+
+security:
+    login:
+        username: "Nom d'utilisateur :"
+        password: "Mot de passe :"
+        forgot_password: "Furgot Password"
+        remember_me: "Se souvenir de moi"
+        submit: "Connexion"
+        bad_cred: "Mauvaises Qualifications."
+
+
+# Form field labels
+form:
+    username: "Nom d'utilisateur :"
+    first_name: "Prénom:"
+    first_name: "Prénom:"
+    last_name: "Nom de Famille:"
+    address: "Adresse:"
+    mphone: "Téléphone Portable:"
+    company_name: "Nom de la Compagnie:"
+    company_web: "Site Web d'entreprise:"
+    desc: "Description de l'entreprise:"
+    update_profile: "Mettre à jour le profil"
+    email: "Adresse e-mail :"
+    current_password: "Mot de passe actuel :"
+    password: "Mot de passe :"
+    password_confirmation: "Vérification :"
+    new_password: "Nouveau mot de passe :"
+    new_password_confirmation: "Vérification :"
+    set_language: "Langue"
+    language:
+        set_german: "Allemand"
+    update: "Mettre à Jour"
+    #registration
+    register: "Signer"
+
+
+#homepage text
+homepage:
+    #meta_title: "Bienvenue à HereCut - En savoir plus sur vous."
+    meta_title: "HereCut."
+    welcome_title: "Bienvenue à HereCut"
+    welcome_text: "Document, Partager et Se Connecter Avec les versions de vous."
+    registration_title: "Signer"
+
+homepage_login:
+    profile_header: "Informations Sur Le Profil:"
+    profile_email: "Email:"
+    profile_username: "Nom d'utilisateur:"
+    profile_first_name: "Prénom:"
+    profile_last_name: "Nom de Famille:"
+    profile_address: "Adresse:"
+    profile_mphone: "Téléphone Portable:"
+    profile_company_name: "Nom de la Compagnie:"
+    profile_company_web: "Site Web d'entreprise:"
+    profile_desc: "Description de l'entreprise:"
+    profile_update_profile: "Mettre à jour le profil"
+    member_header: "Informations pour les Membres:"
+    member_trial_start: "Début d'essai:"
+    logout: "Connectez - Out"

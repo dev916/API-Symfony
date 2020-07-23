@@ -1,0 +1,99 @@
+/*! HTML5 Boilerplate v4.3.0 | MIT License | http://h5bp.com/ */
+
+/*
+ * What follows is the result of much research on cross-browser styling.
+ * Credit left inline and big thanks to Nicolas Gallagher, Jonathan Neal,
+ * Kroc Camen, and the H5BP dev community and team.
+ */
+
+/* ==========================================================================
+   Base styles: opinionated defaults
+   ========================================================================== */
+
+
+html {
+
+}
+body{
+    margin: 0px;
+}
+
+body, button, input, label, select, td, textarea{
+
+}
+
+body#logout{
+    background: rgba(0, 0, 0, 0.6);
+}
+
+input{
+    display: inline-block;
+    margin: 0;
+    outline: 0;
+    background-color: #fff;
+    border: 0px solid ;
+    border-radius: 6px;
+    font-size: 13px;
+    line-height: 10px;
+}
+
+a {
+    cursor: pointer;
+    text-decoration: none;
+    font-family: "Freight Sans Bold","lucida grande",tahoma,verdana,arial,sans-serif !important;
+    font-size: 0.8em;
+}
+a:hover{
+    text-decoration: underline;
+}
+
+#fos_content{
+    margin: 0px auto;
+    padding-top: 17px;
+    border: solid 0px;
+    width:400px;
+}
+
+#fos_content input {
+    border: solid 1px;
+}
+main{
+    width: 770px;
+    height: 100%;
+    margin: 0px auto;
+    border:solid 0px;
+    display: block;
+}
+h1{
+    font-family: "Freight Sans Bold","lucida grande",tahoma,verdana,arial,sans-serif !important;
+    text-rendering: optimizelegibility;
+}
+h2{
+    font-family: "Freight Sans Bold","lucida grande",tahoma,verdana,arial,sans-serif !important;
+    text-rendering: optimizelegibility;
+    font-size: 87%;
+}
+p{
+    font-family: "Freight Sans Bold","lucida grande",tahoma,verdana,arial,sans-serif !important;
+    font-weight: normal !important;
+    text-rendering: optimizelegibility;
+}
+
+.drop_down {
+ font-size: 0.7em;;
+    border-radius: 3px;
+}
+
+#app_container {
+    float:right;
+}
+
+
+#logout_link {
+    color:white;
+}
+
+.hidden-row {
+    display: none !important;
+
+}

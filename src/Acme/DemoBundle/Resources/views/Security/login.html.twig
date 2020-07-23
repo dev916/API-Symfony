@@ -1,0 +1,38 @@
+{% extends 'AcmeDemoBundle::base.html.twig' %}
+
+    {% block body %}
+
+        <div id="main_login_form">
+
+            {% if error %}
+                <div>{{ 'security.login.bad_cred' | trans({ '%error.message%': error.message },'forms')  }}</div>
+            {% endif %}
+
+            <form action="{{ path("login_check") }}" method="post" novalidate="novalidate">
+
+                <div id="username_field">
+                    <input type="text" id="username" name="_username" placeholder="{{ 'security.login.username'|trans({}, 'forms') }}" value="{% if last_username is defined %} {{ last_username }} {% endif %}" required="required" />
+                </div>
+                <div id="password_field">
+                    <input type="password" id="password" name="_password" placeholder="{{ 'security.login.password'|trans({}, 'forms') }}" required="required" />
+                </div>
+
+                <div id="remember_me_box">
+                    <input type="checkbox" id="remember_me" name="_remember_me" value="on" />
+                    <label for="remember_me" style="color:gray;">{{ 'security.login.remember_me'|trans({}, 'forms') }}</label>
+                </div>
+
+                <div id="forgot_password_box">
+                    <!-- <a href="{{ path('pass_recover') }}">{{ 'security.login.forgot_password'|trans({}, 'forms') }}</a>-->
+                </div>
+                <input type="hidden" name="_csrf_token" value="{{ csrf_token('authenticate') }}">
+                <div id="login_button">
+                    <input type="submit" id="_submit" name="_submit" value="{{ 'security.login.submit'|trans({}, 'forms') }}" />
+                </div>
+
+            </form>
+
+
+        </div>
+
+    {% endblock %}

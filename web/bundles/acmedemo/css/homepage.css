@@ -1,0 +1,69 @@
+#home_head_bar_sm {
+    height:24px;
+    width: 100%;
+    color: #7f1518;
+    background: #7f1518;
+    border: solid 1px;
+  /*  background-image: url("../images/home_head_bar_bg_sm.jpg"); */
+    background-repeat: repeat-x;
+    background-size: auto;
+    display: inline-block;
+}
+
+
+#herecut_logo_sm {
+/*   background-image: url("../images/herecut_logo_sm.gif"); */
+   background-repeat: no-repeat;
+   background-size: 61px 32px;
+   display: inline-block;
+   height: 32px;
+   width: 61px;
+
+}
+
+
+#content_box_left {
+   background-color: #FFFFFF;
+   border-radius: 25px;
+   border: 2px solid #7f1518;
+   padding: 20px;
+   width: 300px;
+   height: 350px;
+   float:left;
+   display: inline-block;
+   margin:15px;
+}
+
+#content_box_right {
+   background-color: #FFFFFF;
+   border-radius: 25px;
+   border: 2px solid #7f1518;
+   padding: 20px;
+   width: 300px;
+   height: 350px;
+   display: inline-block;
+   margin:15px;
+}
+
+div#content_box_left input {
+   font-family: "Freight Sans Bold","lucida grande",tahoma,verdana,arial,sans-serif !important;
+   border: solid 1px #E74026;
+   margin: 6px;
+}
+div#content_box_left textarea {
+   font-family: "Freight Sans Bold","lucida grande",tahoma,verdana,arial,sans-serif !important;
+   border: solid 1px #E74026;
+   display: block;
+   font-size: 0.8em;
+}
+div#content_box_left label {
+   font-family: "Freight Sans Bold","lucida grande",tahoma,verdana,arial,sans-serif !important;
+   display: inline-block;
+   font-size: 0.8em;
+}
+
+div#content_box_left p, div#content_box_right p {
+   line-height: 1.5em;
+    font-size: 0.8em;
+}
+

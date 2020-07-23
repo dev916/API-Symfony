@@ -1,0 +1,38 @@
+{% extends 'AcmeDemoBundle::base.html.twig' %}
+
+
+
+
+{% block body %}
+ <main>
+
+   <div id="content_box_left">
+       <h2>{{ 'homepage_login.profile_header'|trans({}, 'forms') }}</h2>
+       <div><p>{{ 'homepage_login.profile_email'|trans({}, 'forms') }} {{ app.user.userEmail}}<br />
+               {{ 'homepage_login.profile_username'|trans({}, 'forms') }}{{ app.user.userName}}<br />
+               {{ 'homepage_login.profile_first_name'|trans({}, 'forms') }} {{ app.user.userFirstName }}<br />
+               {{ 'homepage_login.profile_last_name'|trans({}, 'forms') }} {{ app.user.userLastName }}<br />
+               {{ 'homepage_login.profile_address'|trans({}, 'forms') }} {{ app.user.userAddress }}<br />
+               {{ 'homepage_login.profile_mphone'|trans({}, 'forms') }} {{ app.user.userMobileNo }}<br />
+       {% if app.user.userType == 1  %}
+           {{ 'homepage_login.profile_company_name'|trans({}, 'forms') }} {{ app.user.companyName }}<br />
+           {{ 'homepage_login.profile_company_web'|trans({}, 'forms') }} {{ app.user.userWebsite }}<br />
+           {{ 'homepage_login.profile_desc'|trans({}, 'forms') }} {{ app.user.userBIO }}<br /><br />
+       {% endif %}
+
+               <a href="{{ path("update_profile") }}">[ {{ 'homepage_login.profile_update_profile'|trans({}, 'forms') }} ]</a></p></div>
+       </div>
+
+     {% if app.user.userType == 1  %}
+         <div id="content_box_right">
+             <h2>{{ 'homepage_login.member_header'|trans({}, 'forms') }}</h2>
+             <div><p>{{ 'homepage_login.member_trial_start'|trans({}, 'forms') }} {{ app.user.signupDate | localizeddate('long', 'none' ) }}</p></div>
+         </div>
+     {% endif %}
+
+ </main>
+
+
+{% endblock %}
+
+

@@ -1,0 +1,5 @@
+_assetic:
+    resource: .
+    type: assetic
+_app:
+    resource: /home/htdocs/htdocs/harx_api_b/Symfony/app/config/routing_dev.yml

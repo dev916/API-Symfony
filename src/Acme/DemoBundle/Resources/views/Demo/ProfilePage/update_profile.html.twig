@@ -1,0 +1,26 @@
+{% extends 'AcmeDemoBundle::base.html.twig' %}
+
+
+
+
+{% block body %}
+     <main>
+         <div id="content_box_left">
+               <div class="content_box">
+                   {{ form_start(form) }}
+                   {% if app.user.userType == 1  %}
+                       {{ form_widget(form) }}
+                   {% else %}
+                       {{ form_widget(form.companyName, { 'attr': {'class': 'hidden-row'} }) }}
+                       {{ form_widget(form.userWebsite, { 'attr': {'class': 'hidden-row'} }) }}
+                       {{ form_widget(form.userBIO, { 'attr': {'class': 'hidden-row'} }) }}
+                   {% endif %}
+                   {{ form_end(form) }}
+               </div>
+         </div>
+     </main>
+
+{% endblock %}
+
+
+
