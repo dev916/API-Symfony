@@ -187,7 +187,7 @@ class ApiController extends Controller
 		$chat_from_name
 	) {
 
-		$url = 'https://android.googleapis.com/gcm/send';
+		$url = 'https://fcm.googleapis.com/fcm/send';
 		//$apiKey = 'AIzaSyAH_GcryTpZxZDM-XZ7eK9ZjUqGxxQhd4Y';
 		$apiKey = 'AAAA1VLL9K4:APA91bHyloI0VuM3ZW3rKwoivW0HLunYa6rt0bx0a8WuBDvsHYJyK7lSpAN3H5UHFgFWl6MuLkudZ99gZ3PZJnLnYjCTmNoxTGKcciaDwN7oJHUd3hmACoBDv4bEqsNumIxsNqpUM2Xz';
 		$id = array();
@@ -204,11 +204,22 @@ class ApiController extends Controller
 			'chat_from_id' => $chat_from_id,
 			'msg_id' => $msg_id,
 		);
+
+		$notification = array
+		(
+			'title' => $msg,
+			'text' => $chat_message,
+			'sound' => 'default'
+		);
+
 		$fields = array
 		(
 			'registration_ids' => $id,
-			'data' => $msgdata
+			'data' => $msgdata,
+			'priority' => 'high',
+			'notification' => $notification
 		);
+		
 		$headers = array(
 			'Authorization: key=' . $apiKey,
 			'Content-Type: application/json'
@@ -247,7 +258,7 @@ class ApiController extends Controller
 	public function send_notification($registatoin_ids, $msg, $IDs, $submsg)
 	{
 
-		$url = 'https://android.googleapis.com/gcm/send';
+		$url = 'https://fcm.googleapis.com/fcm/send';
 		//$apiKey = 'AIzaSyAH_GcryTpZxZDM-XZ7eK9ZjUqGxxQhd4Y';
 		$apiKey = 'AAAA1VLL9K4:APA91bHyloI0VuM3ZW3rKwoivW0HLunYa6rt0bx0a8WuBDvsHYJyK7lSpAN3H5UHFgFWl6MuLkudZ99gZ3PZJnLnYjCTmNoxTGKcciaDwN7oJHUd3hmACoBDv4bEqsNumIxsNqpUM2Xz';
 		$id = array();
@@ -269,11 +280,22 @@ class ApiController extends Controller
 			'submessage' => $submsg,
 			'id' => $IDs
 		);
+	
+		$notification = array
+		(
+			'title' => $msg,
+			'text' => $submsg,
+			'sound' => 'default'
+		);
+
 		$fields = array
 		(
 			'registration_ids' => $id,
-			'data' => $msgdata
+			'data' => $msgdata,
+			'priority' => 'high',
+			'notification' => $notification
 		);
+
 		$headers = array(
 			'Authorization: key=' . $apiKey,
 			'Content-Type: application/json'
